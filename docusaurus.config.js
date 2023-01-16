@@ -64,6 +64,12 @@ const config = {
             label: 'Introduction',
           },
           {
+            type: 'doc',
+            docId: '/category/getting-started',
+            position: 'left',
+            label: 'Getting Started',
+          },
+          {
             href: 'https://discord.geopolmc.org',
             label: 'Discord',
             position: 'right',
@@ -77,8 +83,12 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Getting Started',
+                label: 'Introduction',
                 to: '/docs/Introduction',
+              },
+              {
+                label: 'Getting Started',
+                to: '/docs/category/getting-started',
               },
             ],
           },
