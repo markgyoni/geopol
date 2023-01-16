@@ -1,11 +1,12 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import factionsPNG from '@site/static/img/factions.png';
 
 const FeatureList = [
   {
     title: 'Factions',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    img: factionsPNG,
     description: (
       <>
         placeholder
@@ -14,7 +15,7 @@ const FeatureList = [
   },
   {
     title: 'Weapons',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    img: factionsPNG,
     description: (
       <>
         placeholder ----- <code>placeholderrrrr</code>
@@ -23,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Growing Community',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    img: factionsPNG,
     description: (
       <>
         placeholder
@@ -32,11 +33,11 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({img, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={img}/>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
