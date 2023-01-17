@@ -2,7 +2,7 @@ import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
 import factionsPNG from '@site/static/img/factions.png';
-import weaponsv3PNG from '@site/static/img/weaponsv3.png';
+import weaponsPNG from '@site/static/img/weaponsv3.png';
 const FeatureList = [
   {
     title: 'Factions',
@@ -15,15 +15,15 @@ const FeatureList = [
   },
   {
     title: 'Weapons',
-    img: weaponsv3PNG,
+    img: weaponsPNG,
     description: (
       <>
-        placeholder ----- <code>placeholderrrrr</code>
+        placeholder
       </>
     ),
   },
   {
-    title: 'Growing Community',
+    title: 'Placeholder',
     img: factionsPNG,
     description: (
       <>
