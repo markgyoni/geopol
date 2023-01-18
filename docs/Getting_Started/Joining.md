@@ -20,7 +20,7 @@ Beware: We create multiple versions of our modpacks so only look out for the CF 
 
 ## GDLauncher
 
-
+Both GDLauncher and the modpack installation process is similar to Curseforge. This launcher is only facused on Minecraft, while CF manages mods for many more games.  
 
 Beware: We create multiple versions of our modpacks so only look out for the GD versions.
 
