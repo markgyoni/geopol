@@ -20,7 +20,7 @@ Beware: We create multiple versions of our modpacks so only look out for the CF 
 
 ## GDLauncher
 
-Both [GDLauncher](https://gdlauncher.com/) and the modpack installation process is similar to Curseforge. This launcher is only facused on Minecraft, while CF manages mods for many more games. After installing, click on the "+" button in the lower right corner and select the "Import Zip" section. Here you can import the modpack and start playing. (GDL requires you to login with your Microsoft account.
+Both [GDLauncher](https://gdlauncher.com/) and the modpack installation process is similar to Curseforge. This launcher is only facused on Minecraft, while CF manages mods for many more games. After installing, click on the "+" button in the lower right corner and select the "Import Zip" section. Here you can import the modpack and start playing. (GDL requires you to login with your Microsoft account.)
 
 Beware: We create multiple versions of our modpacks so only look out for the GD versions.
 
