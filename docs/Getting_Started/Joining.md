@@ -14,7 +14,7 @@ We will apply for an official modpack on Curseforge after MW gets fully released
 
 ## Curseforge
 
-The easiest way to install our modpacks is through Curseforge. You can find the CF downloads in the [Discord](https://discord.geopolmc.org). After installing CF and selecting Minecraft, click on the "**Create Custom Profile**" text next to the search bar. After this, there is a clickable import text at the top. From here, you can import the downloaded files and start playing, once it finishes downloading
+The easiest way to install our modpacks is through Curseforge. You can find the CF downloads in the [Discord](https://discord.geopolmc.org). After installing CF and selecting Minecraft, click on the "**Create Custom Profile**" text next to the search bar. After this, there is a clickable import text at the top. From here, you can import the downloaded files and start playing, once it finishes downloading. 
 
 Beware: We create multiple versions of our modpacks so only look out for the CF versions.
 
