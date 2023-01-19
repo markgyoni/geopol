@@ -90,6 +90,10 @@ const config = {
                 label: 'Getting Started',
                 to: '/docs/category/getting-started',
               },
+              {
+                label: 'Mods',
+                to: '/docs/category/mods',
+              },
             ],
           },
           {
@@ -98,6 +102,10 @@ const config = {
               {
                 label: 'Discord',
                 href: 'https://discord.geopolmc.org',
+              },
+              {
+                label: 'Support Us on Ko-Fi',
+                href: 'https://ko-fi.com/geopolmc',
               },
             ],
           },
