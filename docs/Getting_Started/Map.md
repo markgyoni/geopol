@@ -1,6 +1,7 @@
 # Map
 
-yes and dynmap
+The map is based on realistic terrain, created with OTG. You can find any sort of terrain, from flat plains to mountain ranges, whilst also being able to find vanilla features, such as mineshafts and dungeons.
+
 
 ## Dynmap
 
