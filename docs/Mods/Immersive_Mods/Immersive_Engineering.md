@@ -28,3 +28,11 @@ What's the best way to get hot? By making a Crude Blast Furnace and a Coke Oven 
 The Coke Oven makes Coal Coke and Creosote Oil. Coal Coke is pretty useful, but Creosote Oil is actually required to progress; you'll need Treated Wood for a lot of things.
 
 You can make an Improved Blast Furnace after producing a bit of steel with your crude blast furnace. The improved version allows automated inputs and outputs.
+
+## Electricity!
+
+(RF) Redstone Flux is supposedly magical, but in Immersive Engineering it acts a bit like electricity. There are three voltages: **low**, **medium** and **high** at **256 IF/t**, **1024 IF/t**, and **4096 IF/t** respectively. Different voltages shouldn't connect; if they do, very bad things will happen.
+
+There are Wire Connectors and Wire Coils. Wire Coils are what transmit RF, but they aren't actually blocks; they're entities. Wire Coils always require Wire Connectors to exist and to transmit power. Wire Connectors are actual blocks that exist in the world. There are also Wire Relays, which are used to split power between multiple Wire Coils.
+
+From this point on, you'll want an Engineer's Wire Cutters. It's how you disconnect Wire Coils.
