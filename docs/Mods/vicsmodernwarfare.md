@@ -3,4 +3,4 @@ title: Vic's Modern Warfare
 position: 1
 ---
 
-Vic's Moder Warfare is a major part of our server. This mod adds high quality weapons with attachments that can be configured to the players needs.
+Vic's Modern Warfare is a core feature of GeoPol. The mod adds a large amount of highly detailed, customizable guns, ranging from simple pistols to rocket launchers and machineguns.
