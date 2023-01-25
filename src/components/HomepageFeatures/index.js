@@ -9,7 +9,7 @@ const FeatureList = [
     img: factionsPNG,
     description: (
       <>
-        Join one of the many growing factions on the server!
+        Join one of the many, player made factions on the server! 
       </>
     ),
   },
@@ -18,7 +18,7 @@ const FeatureList = [
     img: weaponsPNG,
     description: (
       <>
-        placeholder
+        Fight battles with HD quality guns from the VMW mod!
       </>
     ),
   },
@@ -27,7 +27,7 @@ const FeatureList = [
     img: factionsPNG,
     description: (
       <>
-        placeholder
+        Make your voice heard, suggest new features or advertise your faction!
       </>
     ),
   },
