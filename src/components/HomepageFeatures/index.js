@@ -23,7 +23,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Placeholder',
+    title: 'Growing Community',
     img: factionsPNG,
     description: (
       <>
