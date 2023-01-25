@@ -9,7 +9,7 @@ const FeatureList = [
     img: factionsPNG,
     description: (
       <>
-        placeholder
+        Join one of the many growing factions on the server!
       </>
     ),
   },
