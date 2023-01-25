@@ -28,4 +28,3 @@ Military vehicles, such as tanks, are a different story. They are expensive, the
 
 You can also craft stationary artillery, or tow said artillery.
 
-![a](/static/img/images/btr.png)
