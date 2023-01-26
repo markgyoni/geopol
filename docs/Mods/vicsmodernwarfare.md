@@ -3,7 +3,7 @@ title: Vic's Modern Warfare
 position: 1
 ---
 
-# Briefly
+# Vic's Modern Warfare
 Vic's Modern Warfare is a core feature of GeoPol. The mod adds a large amount of highly detailed, customizable guns, ranging from simple pistols to rocket launchers and machineguns.
 # Guns
 VMW includes a wide variety of firearms from almost every major historical era, such as **WW2** and **WW1**, but also from the **Cold War** and the **War on Terror**. All of them are almost digital replicas of their real life counterparts.

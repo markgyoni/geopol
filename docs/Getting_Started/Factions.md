@@ -31,4 +31,3 @@ If, through player death or players leaving a faction, territory count is greate
     3. Set your faction's home by typing <code>/f sethome</code> in chat.
     4. Claim your first chunk of territory by typing <code>/f claim</code> in chat.
     5. Invite players to your faction by typing <code>/f invite [player]</code> in chat. 
-    6. 
