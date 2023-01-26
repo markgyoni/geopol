@@ -3,6 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 import factionsPNG from '@site/static/img/factions.png';
 import weaponsPNG from '@site/static/img/weaponsv3.png';
+import communityPNG from '@site/static/img/communitygeopol.png';
 const FeatureList = [
   {
     title: 'Factions',
@@ -24,7 +25,7 @@ const FeatureList = [
   },
   {
     title: 'Growing Community',
-    img: factionsPNG,
+    img: communityPNG,
     description: (
       <>
         Make your voice heard, suggest new features or advertise your faction!

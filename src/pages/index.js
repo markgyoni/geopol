@@ -18,7 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/getting-started">
-            Join GeoPol
+            Get Started!
           </Link>
         </div>
       </div>
