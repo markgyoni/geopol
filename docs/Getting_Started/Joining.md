@@ -26,6 +26,8 @@ Beware: We create multiple versions of our modpacks so only look out for the GD 
 
 ## Ram
 
-yes
+We recommend at least 6GB of RAM due to the amount of mods and assets. If you have more than 6GB available, feel free to increase the RAM to 8GB or even 10GB. This will help with performance and reduce the amount of lag.
 
 ## Manually
+
+If you don't want to use a launcher, you can install the mods manually. You can find the downloads in the [Discord](https://discord.geopolmc.org). After downloading the mods, move them into the mods folder of your Minecraft installation. (The mods folder is located in the .minecraft folder in your %appdata% directory.)

@@ -109,8 +109,21 @@ const config = {
               },
             ],
           },
+          {
+            title: 'placeholer',
+            items: [
+              {
+                label: 'placeholder',
+                href: 'https://discord.geopolmc.org',
+              },
+              {
+                label: 'placeholder',
+                href: 'https://ko-fi.com/geopolmc',
+              },
+            ],
+          },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} GeoPol.`,
+        copyright: `Copyright © ${new Date().getFullYear()} GeoPol.👽`,
       },
       prism: {
         theme: lightCodeTheme,
