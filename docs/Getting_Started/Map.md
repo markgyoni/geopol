@@ -16,5 +16,5 @@ Our map displays the following:
 - Faction claims
 - World border
 - Spawn
-- Sadly no modded blocks
-- 
+- One-way chat from the server to the map
+*- Sadly no modded blocks*

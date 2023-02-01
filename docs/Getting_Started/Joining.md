@@ -38,4 +38,4 @@ We recommend at least 6GB of RAM due to the amount of mods and assets. If you ha
 
 ## Manually
 
-If you don't want to use a launcher, you can install the mods manually. You can find the downloads in the [Discord](https://discord.geopolmc.org). After downloading the mods, move them into the mods folder of your Minecraft installation. (The mods folder is located in the .minecraft folder in your %appdata% directory.)
+If you don't want to use a launcher, you can install the mods manually. You can find the list of the mods in the [Discord](https://discord.geopolmc.org). After downloading the mods, move them into the mods folder of your Minecraft installation. (The mods folder is located in the .minecraft folder in your %appdata% directory.)
