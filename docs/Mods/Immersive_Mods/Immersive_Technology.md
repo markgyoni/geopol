@@ -25,4 +25,8 @@ This mod is a complex addition to the Immersive Engineering mod group. It adds s
 **- The Cooling Tower** - This converts exhaust steam back to Distilled Water or Water, depending on the inputs supplied.
 And plenty more!
 
-Along with these multi blocks it adds some small useful additions, like trash cans for various types of fluids or items.
+:::info Note
+
+Along with these multi blocks it adds some small useful additions, like trash cans for various types of fluids or items. Any information not found here on Immersive Technology or Energy can be found in the engineers manual, like the rest of the immersive series mods (excluding immersive vehicles.)
+
+:::
