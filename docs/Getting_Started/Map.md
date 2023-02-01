@@ -17,4 +17,4 @@ Our map displays the following:
 - World border
 - Spawn
 - One-way chat from the server to the map
-*- Sadly no modded blocks*
+- *Sadly no modded blocks*
