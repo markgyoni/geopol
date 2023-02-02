@@ -8,6 +8,7 @@ const FeatureList = [
   {
     title: 'Factions',
     img: factionsPNG,
+    url: 'https://docs.geopolmc.org/docs/Getting_Started/Factions',
     description: (
       <>
         Join one of the many, player made factions on the server! 
@@ -17,6 +18,7 @@ const FeatureList = [
   {
     title: 'Weapons',
     img: weaponsPNG,
+    url: 'https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare',
     description: (
       <>
         Fight battles with HD quality guns from the VMW mod!
@@ -26,6 +28,7 @@ const FeatureList = [
   {
     title: 'Growing Community',
     img: communityPNG,
+    url: 'http://docs.geopolmc.org/docs/Getting_Started/Community',
     description: (
       <>
         Make your voice heard, suggest new features or advertise your faction!
@@ -34,11 +37,13 @@ const FeatureList = [
   },
 ];
 
-function Feature({img, title, description}) {
+function Feature({img, title, description, url}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
+        <a href={url}>
         <img src={img}/>
+        </a>
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
