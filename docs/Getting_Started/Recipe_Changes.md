@@ -19,5 +19,6 @@ Some quality of life recipes:
 ### Removals
 
 - Nuclear Shell
+- 100rnd magazines
 ### Changes
 - All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.

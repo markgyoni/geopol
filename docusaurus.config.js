@@ -110,15 +110,15 @@ const config = {
             ],
           },
           {
-            title: 'placeholer',
+            title: 'Other',
             items: [
               {
-                label: 'placeholder',
-                href: 'https://discord.geopolmc.org',
+                label: 'CurseForge',
+                href: 'https://www.curseforge.com/minecraft/modpacks/geopol',
               },
               {
-                label: 'placeholder',
-                href: 'https://ko-fi.com/geopolmc',
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@geopolmc',
               },
             ],
           },
