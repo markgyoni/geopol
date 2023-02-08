@@ -4,6 +4,10 @@
 
 It's a group of players, like a team or a club. A faction can claim territory, work together to build a base, and build (or destroy) relationships with other factions.
 
+## Colored Armor mod
+Coloured armour is extremely important in many situations you may find yourself in GeoPol. 
+
+One example is firefights, you do not want to shoot your buddies, only the enemy. Another great way is identifying yourself to fellow faction members or to show that you are ready to take on any enemy.
 ## Territory
 
 A faction claims land by chunk, dependent on how much power they possess at a rate of 1 chunk per power. 

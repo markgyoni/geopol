@@ -10,15 +10,25 @@ We changed recipes to gate certain items with stupidly easy recipes, so that you
 
 *These changes will not be applyed and visible if the scripts are not installed on the client. (You still can't craft it in the normal way, it's just not visible in JEI)*
 
-### Additions
+### Item Additions
+
+- Refined Core
+- Ultimate Refined Core
+- Wither Fragment
+### Recipe Additions
+
+- 8 Wither Fragments to 1 Wither Skeleton Skull
 
 Some quality of life recipes:
 - 1 flint from 3 gravel
-- 8 logs to 4 chests (NYI)
+- 8 logs to 4 chests
 
 ### Removals
 
 - Nuclear Shell
 - 100rnd magazines
 ### Changes
+- Refined Storage Machine Casing requires 1 Refined Core instead of 1 Stone.
+- Vic's Modern Warfare Weapon and Armor Workbench
+- Vic's Modern Warfare Ammo Press
 - All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.
