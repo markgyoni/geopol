@@ -14,28 +14,11 @@ We will apply for an official modpack on Curseforge after MW gets fully released
 
 ## Curseforge
 
-:::danger Under construction
+To install the modpack, open your favourite launcher and search for GeoPol. From here you can install the latest version. Note that you will also need to install Vic's Modern Warfare and Optifine separately. You can find the links to these mods in the [**Discord**](https://discord.geopolmc.org).
 
-Our modpack will be available on Curseforge soon. We will update this page once it is downloadable.
+Alternatively, you can install the modpack from the [**Curseforge page**](https://www.curseforge.com/minecraft/modpacks/geopol), but you will need to manually import the zip file into your launcher.
 
-:::
-
-## Curseforge importing
-
-The easiest way to install our modpacks is through [Curseforge](https://curseforge.com/). You can find the CF downloads in the [Discord](https://discord.geopolmc.org). After installing CF and selecting Minecraft, click on the "**Create Custom Profile**" text next to the search bar. After this, there is a clickable import text at the top. From here, you can import the downloaded files and start playing, once it finishes downloading. (CF requires you to login with your Microsoft account.)
-
-Beware: We create multiple versions of our modpacks so only look out for the CF versions.
-
-## GDLauncher importing
-
-Both [GDLauncher](https://gdlauncher.com/) and the modpack installation process is similar to Curseforge. This launcher is only focused on Minecraft, while CF manages mods for many more games. After installing, click on the "+" button in the lower right corner and select the "Import Zip" section. Here you can import the modpack and start playing. (GDL requires you to login with your Microsoft account.)
-
-Beware: We create multiple versions of our modpacks so only look out for the GD versions.
-
+(We are also working on a [Modrinth](https://modrinth.com/) page)
 ## Ram
 
 We recommend at least 6GB of RAM due to the amount of mods and assets. If you have more than 6GB available, feel free to increase the RAM to 8GB or even 10GB. This will help with performance and reduce the amount of lag.
-
-## Manually
-
-If you don't want to use a launcher, you can install the mods manually. You can find the list of the mods in the [Discord](https://discord.geopolmc.org). After downloading the mods, move them into the mods folder of your Minecraft installation. (The mods folder is located in the .minecraft folder in your %appdata% directory.)

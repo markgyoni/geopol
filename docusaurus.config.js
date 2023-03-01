@@ -64,12 +64,6 @@ const config = {
             label: 'Introduction',
           },
           {
-            type: 'doc',
-            docId: '/category/getting-started',
-            position: 'left',
-            label: 'Getting Started',
-          },
-          {
             href: 'https://discord.geopolmc.org',
             label: 'Discord',
             position: 'right',
@@ -110,15 +104,19 @@ const config = {
             ],
           },
           {
-            title: 'placeholer',
+            title: 'Other',
             items: [
               {
-                label: 'placeholder',
-                href: 'https://discord.geopolmc.org',
+                label: 'Status',
+                href: 'https://status.geopolmc.org',
               },
               {
-                label: 'placeholder',
-                href: 'https://ko-fi.com/geopolmc',
+                label: 'CurseForge',
+                href: 'https://www.curseforge.com/minecraft/modpacks/geopol',
+              },
+              {
+                label: 'Youtube',
+                href: 'https://www.youtube.com/@geopolmc',
               },
             ],
           },
