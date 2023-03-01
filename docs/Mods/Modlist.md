@@ -1,2 +1,5 @@
-# Here you can find the full modlist used for our server:
+---
+title: Modlist
+---
+## Here you can find the full list of mods used for our server:
 
