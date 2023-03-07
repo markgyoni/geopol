@@ -6,7 +6,7 @@ Refined Storage is a storage mod where you can build a storage network made up o
 
 The **Controller** is the “core” of your storage network. You’ll be connecting all the Refined Storage devices to this block.
 
-The Controller needs energy. More specifically, **Forge Energy or RF**.
+The Controller needs energy. More specifically, **Forge Energy or Redstone Flux**.
 
 Disks are used to store items or fluids. You can store them in a **Disk Drive**.
 
