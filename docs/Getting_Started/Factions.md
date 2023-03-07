@@ -24,6 +24,7 @@ If, through player death or players leaving a faction, territory count is greate
 The Coloured Armor mod is extremely important in many situations you may find yourself in GeoPol. 
 
 One example is firefights, you do not want to shoot your buddies, only the enemy. Another great way is identifying yourself to fellow faction members or to show that you are ready to take on any enemy.
+
 ---
 
 # Factions FAQ
