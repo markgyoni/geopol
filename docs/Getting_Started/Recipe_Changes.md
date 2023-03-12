@@ -19,16 +19,16 @@ We changed recipes to gate certain items with stupidly easy recipes, so that you
 
 - 8 Wither Fragments to 1 Wither Skeleton Skull
 
-Some quality of life recipes:
+#### Quality of life recipes:
 - 1 flint from 3 gravel
 - 8 logs to 4 chests
 
-### Removals
+### Recipe Removals  
 
-- Nuclear Shell
-- 100rnd magazines
-### Changes
+- 152mm Nuclear Shell
+- 100rnd magazines for weapons that aren't LMG's
+### Recipe Changes
 - Refined Storage Machine Casing requires 1 Refined Core instead of 1 Stone.
-- Vic's Modern Warfare Weapon and Armor Workbench
-- Vic's Modern Warfare Ammo Press
+- Modern Warfare Cubed Weapon and Armor Workbench
+- Modern Warfare Cubed Ammo Press
 - All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.
