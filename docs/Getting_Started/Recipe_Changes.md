@@ -29,6 +29,6 @@ We changed recipes to gate certain items with stupidly easy recipes, so that you
 - 100rnd magazines for weapons that aren't LMG's
 ### Recipe Changes
 - Refined Storage Machine Casing requires 1 Refined Core instead of 1 Stone.
-- Vic's Modern Warfare Weapon and Armor Workbench
-- Vic's Modern Warfare Ammo Press
+- Modern Warfare Cubed Weapon and Armor Workbench
+- Modern Warfare Cubed Ammo Press
 - All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.
