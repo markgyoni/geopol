@@ -17,6 +17,8 @@ The modpack gets updated regularly. When this happens, everyone has to update. M
 
 We recommend at least 6GB of RAM due to the amount of mods and assets. If you have more than 6GB available, feel free to increase the RAM to 8GB or even 10GB. This will help with performance and reduce the amount of lag.
 
+To change the amount of RAM given to the Minecraft instance in the Curseforge luncher, head over to the setting
+
 ## Curseforge Install
 
 To install the modpack, open your favourite launcher and search for GeoPol. From here you can install the latest version. Note that you will also need to install **Modern Warfare Cubed** and (optionally) **Optifine** separately. You can find the links to these mods in the [**Discord**](https://discord.geopolmc.org).
