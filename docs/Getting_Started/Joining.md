@@ -17,7 +17,7 @@ The modpack gets updated regularly. When this happens, everyone has to update. M
 
 We recommend at least 6GB of RAM due to the amount of mods and assets. If you have more than 6GB available, feel free to increase the RAM to 8GB or even 10GB. This will help with performance and reduce the amount of lag.
 
-To change the amount of RAM given to the Minecraft instance in the Curseforge luncher, head over to the setting
+To change the amount of RAM given to the Minecraft instance in the Curseforge luncher, head over to the settings button localted in the lower right corner. Then Click on Minecraft, scroll down and change the amount with the slider.
 
 ## Curseforge Install
 
