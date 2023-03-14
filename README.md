@@ -6,3 +6,7 @@ If you followed a link from CurseForge, you can [go back here](https://www.curse
 ## Contributing
 
 Everyone is welcome to contribute to our project! Feel free to open tickets with issues on the Discord or make a Pull Request here with any missing or incorrect features.
+
+## Support Us
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7HDTGR)
