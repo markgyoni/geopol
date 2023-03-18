@@ -5,7 +5,7 @@ title: Modlist
 
 ### Here you can find the full list of mods used for our server, together with their versions.
 
-You can only join the server with the (Official GeoPol Modpack)[https://beta.curseforge.com/minecraft/modpacks/geopol] from Curseforge.
+You can only join the server with the [Official GeoPol Modpack](https://beta.curseforge.com/minecraft/modpacks/geopol) from Curseforge.
 
 We have a few allowed mods on top of this, these are:
 - Optifine (G5 and G6 pre1)
