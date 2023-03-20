@@ -49,7 +49,8 @@ rendering {
 }
 ```
 
-The modpack comes preconfigured with the following shaders:
+## Built-in Shaders
+### The modpack comes preconfigured with the following shaders: (They require Optifine and [MW shaders](#shaders) to be disabled)
 - Complementary Reimagined (High)
 - Complementary Reimagined (Medium)
 - Complementary Reimagined (Low)
