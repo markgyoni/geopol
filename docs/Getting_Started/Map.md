@@ -10,9 +10,9 @@ The map is based on realistic terrain, created with the [Vanilla Vistas](https:/
 The world border is currently set to **1750 blocks** from the spawn. This is to stop players from exploring too far away from the spawn, and to prevent lag. The world border will be expanded in the future, but not too much, as we want to keep the map small and compact to have centralized battles and factions.
 ### Dimensions
 
-***The Nether is disabled*** You can find all of the materials  in the shop.
+***The Nether is disabled*** You can find all of the materials in the shop.
 
-***The End is enabled*** You can even find some custom loot in the End Cities.
+***The End is enabled*** ~~You can even find some custom loot in the End Cities.~~ (Coming soon)
 ## Dynmap
 
 Dynmap is a plugin that allows you to see the map of your server in real time. It's very useful for finding your way around the server. You can also see the map on the website [here](https://map.geopolmc.org). 
