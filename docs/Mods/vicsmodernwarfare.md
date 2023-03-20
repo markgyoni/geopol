@@ -48,3 +48,8 @@ rendering {
     ...
 }
 ```
+
+The modpack comes preconfigured with the following shaders:
+- Complementary Reimagined (High)
+- Complementary Reimagined (Medium)
+- Complementary Reimagined (Low)
