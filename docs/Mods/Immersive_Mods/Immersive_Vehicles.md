@@ -18,13 +18,13 @@ Yes, packs. Whilst Immersive Vehicles does have a default pack, which is also in
 
 
 ### How do I get a vehicle?
-
 You need to craft parts, such as engines, and then assemble the vehicle itself. This may take a longer period of time, depending on what kind of vehicle you are looking for. If you are only looking for something to traverse the map with, you can build an oak plane included in the Official Content Pack, which will will do the job.
+
 ### Civilian Vehicles
-Crafting everyday cars and simple planes is, well, simple. You can craft parts for them in workbenches. These vehicles are cheaper in terms of resources.
+Crafting everyday cars and simple planes is, well, simple. Parts can be crafted in workbenches. These vehicles are the cheapest to make, although do not have armor or mounted guns.  
 
 ### Military Vehicles
-Military vehicles, such as tanks, are a different story. They are expensive, their munition is also expensive, but the payoff is worth the resources. You can employ combined arms attacks or defenses. V3 currently has tanks, BTRs, IFVs, attack helicopters and jets, most of them from  the Schwikau pack.
+Military vehicles, such as tanks, are a different story. They are expensive, and their munitions are expensive, but the payoff may be worth the investment for combined arms warfare. V3 currently has tanks, BTRs, IFVs, attack helicopters and jets, with most of them from the VEB Automobilwerke Schwikau pack.
 
-You can also craft stationary artillery, or tow said artillery.
+You can also craft stationary artillery rigs, or tow said artillery.
 

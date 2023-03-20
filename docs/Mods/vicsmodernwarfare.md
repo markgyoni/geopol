@@ -28,9 +28,9 @@ Grenades, RPG rounds, and 40mm grenades can be crafted.
 
 ## Shaders
 
-This mod breaks all shader compatibility out of the box. If you want to use shaders, you will need to disable the `enableAllShaders` in the mw.cfg file. You can find this file in the config folder of the modpack. It should look like this:
+This mod breaks all shader compatibility out of the box. If you want to use shaders, you will need to disable the `enableAllShaders` in the mwc.cfg file. You can find this file in the config folder of the modpack. It should look like this:
 
-```a title="/config/mw.cfg"
+```a title="/config/mwc.cfg"
 gameplay {
     # Enables the ammo counter
     B:enableAmmoCounter=true
@@ -38,14 +38,18 @@ gameplay {
     ...
 }
 
-
 rendering {
     # Setting this to false disables all shaders, enabling allows to select which shaders are used.
     B:enableAllShaders=false <--- Set this to false
 
-    # Enables the fancy VMW snow/rain
+    # Enables the fancy MWC snow/rain
     B:enableFancyRainAndSnow=true
 
     ...
 }
 ```
+
+The modpack comes preconfigured with the following shaders:
+- Complementary Reimagined (High)
+- Complementary Reimagined (Medium)
+- Complementary Reimagined (Low)
