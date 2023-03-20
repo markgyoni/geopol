@@ -5,7 +5,7 @@ If you followed a link from CurseForge, you can [go back here](https://www.curse
 
 ## Contributing
 
-Everyone is welcome to contribute to our project! Feel free to open tickets with issues on the Discord or make a Pull Request here with any missing or incorrect features.
+Everyone is welcome to contribute to our project! Feel free to open tickets on our Discord or make a Pull Request here to add any missing or incorrect features.
 
 ## Support Us
 
