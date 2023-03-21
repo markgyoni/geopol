@@ -9,7 +9,7 @@ We provide the modpack to our players to ease the joining process. ~~Currently w
 - **Normal** (Includes every required mod and the custom scripts. Less storage required)
 - ~~**Extras** (Features in Normal + Multiple optimization mods to help the client performance)~~
 
-Modification for a unfair advantage is cheating and bannable. This includes certain vanilla-seeming Mods and Texture Packs.  
+Modification for a unfair advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone)   
 
 The modpack gets updated regularly. When this happens, a update will be required. More on this below.
 
