@@ -7,7 +7,7 @@ position: 1
 Vic's Modern Warfare is a core feature of GeoPol. The mod adds a large amount of highly detailed, customizable guns, ranging from simple pistols to rocket launchers and machineguns.
 
 ## Guns
-VMW includes a wide variety of firearms from almost every major historical era, such as **WW2** and **WW1**, but also from the **Cold War** and the **War on Terror**. All are near-perfect digital replicas of their real life counterparts.
+VMW includes a wide variety of firearms from almost every major historical era, including **WW1** and **WW2**, but also from the **Cold War** and the **War on Terror**. All are near-perfect digital replicas of their real life counterparts.
 
 ### *How can I get guns?*
 If you are a new player without a faction, we recommend purchasing a gun from the gun shop, where you can find basic, low level firearms for a reasonable price, such as the G2 Contender.
