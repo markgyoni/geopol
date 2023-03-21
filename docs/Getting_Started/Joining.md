@@ -11,7 +11,7 @@ We provide the modpack to our players to ease the joining process. ~~Currently w
 
 Modification for a unfair advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone)   
 
-The modpack gets updated regularly. When this happens, a update will be required. More on this below.
+The modpack gets updated regularly. When this happens, an update will be required. More on this below.
 
 ## Ram
 
