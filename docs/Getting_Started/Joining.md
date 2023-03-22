@@ -21,6 +21,6 @@ To change the amount of RAM given to each Minecraft instance in the Curseforge l
 
 ## Curseforge Install
 
-To install the modpack, open your favorite launcher and search for GeoPol. From here you can install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders) 
+To install the modpack, open your favorite launcher and search for GeoPol. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders) In the event of a modpack update, press the two arrows next to the "Play" button and download the newest version. [More info on updating](https://support.curseforge.com/en/support/solutions/articles/9000206622-how-to-update-change-a-modpack-s-version)   
 
-Alternatively, you can install the modpack from the [**Curseforge page**](https://www.curseforge.com/minecraft/modpacks/geopol), but you will need to manually import the zip file into your launcher.
+Alternatively, you can install the modpack from the [**Curseforge Website**](https://www.curseforge.com/minecraft/modpacks/geopol), but you will need to manually import the zip file into your launcher.
