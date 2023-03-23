@@ -1,7 +1,4 @@
 # Community  
-<p><a href="https://discord.geopolmc.org">
-        <img src="https://img.shields.io/discord/308323056592486420?logo=discord"
-            alt="chat on Discord"></a></p>
 
 Our Discord server is the place where you can find the latest news and updates about the server. It is also the home of player discussion and faction promotion.  
 
