@@ -45,3 +45,7 @@ article a[href^="https://docs.geopolmc.org/"]::after
 {
   display: none !important;
 }
+article a[href^="https://ko-fi.com/"]::after
+{
+  display: none !important;
+}
