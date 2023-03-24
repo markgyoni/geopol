@@ -1,3 +1,6 @@
+---
+title: Factions
+---
 # Factions
 
 ## What is a faction?

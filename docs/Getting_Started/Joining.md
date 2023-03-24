@@ -1,3 +1,6 @@
+---
+title: Joining
+---
 # Joining
 
 **There are currently 3 ways to join our server.**
