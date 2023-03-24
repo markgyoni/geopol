@@ -1,3 +1,6 @@
+---
+title: Community
+---
 # Community  
 
 Our Discord server is the place where you can find the latest news and updates about the server. It is also the home of player discussion and faction promotion.  
