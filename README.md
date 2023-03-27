@@ -1,5 +1,5 @@
 # GeoPol MC 
-[![HitCount](https://github.com/markgyoni/geopol/graphs/traffic)](https://hits.dwyl.com/markgyoni/geopol?style=flat)
+[![HitCount](https://hits.dwyl.com/markgyoni/geopol.svg)](https://hits.dwyl.com/markgyoni/geopol?style=flat)
 
 Welcome to the GeoPol Repository! Report any Issues or Problems you may be having in the "Issues" tab. 
 
