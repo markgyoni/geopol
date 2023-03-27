@@ -94,7 +94,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Discord',
+                label: 'Discord Server',
                 href: 'https://discord.geopolmc.org',
               },
               {
@@ -107,15 +107,15 @@ const config = {
             title: 'Other',
             items: [
               {
-                label: 'Status',
+                label: 'Server Status',
                 href: 'https://status.geopolmc.org',
               },
               {
-                label: 'CurseForge',
+                label: 'CurseForge Modpack',
                 href: 'https://www.curseforge.com/minecraft/modpacks/geopol',
               },
               {
-                label: 'Youtube',
+                label: 'Youtube Channel',
                 href: 'https://www.youtube.com/@geopolmc',
               },
             ],
