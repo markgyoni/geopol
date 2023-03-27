@@ -43,7 +43,7 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
     5. Invite players to your faction by typing <code>/f invite [player]</code> in chat. 
 
 2. How do I declare war?    
-    1. Message your enemy faction on discord and agree on when "Hostilities" will begin. This is semi-required as "offline" raids can net destruction of thir base, if thats what you wish, however getting their loot will be harder, as missles and tnt may cause items to despawn
-    2. Use the <code>/f enemy [faction name]</code> This lets you melee enemies inside their territory, although guns will work regardless 
-    3. Fire away    
+    1. Message your enemy faction on discord and agree on when "Hostilities" will begin. This is only semi-required as "offline" raids can net destruction of thir base, if thats what you wish, however, getting their loot will be harder, as Missles and TnT may cause items to despawn.
+    2. Type the <code>/f enemy [faction name]</code> command in chat. This will let you melee enemies inside their territory, although guns will work regardless. 
+    3. Fire away!    
     
