@@ -3,7 +3,9 @@
 
 Welcome to the GeoPol Repository! Report any Issues or Problems you may be having in the "Issues" tab. 
 
-If you followed a link from CurseForge, you can [go back here](https://www.curseforge.com/minecraft/modpacks/geopol)
+If you followed a link from CurseForge, you can [go back here](https://www.curseforge.com/minecraft/modpacks/geopol).
+
+If you followed a link from our Docs page, you can [go back here](https://docs.geopolmc.org/).
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/markgyoni/geopol/issues)
 
