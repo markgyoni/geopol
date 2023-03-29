@@ -19,14 +19,15 @@
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #00aa00;
-  --ifm-color-primary-dark: #00aa00;
-  --ifm-color-primary-darker: #00aa00;
-  --ifm-color-primary-darkest: #00aa00;
-  --ifm-color-primary-light: #00aa00;
-  --ifm-color-primary-lighter: #00aa00;
-  --ifm-color-primary-lightest: #00aa00;
-  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+--ifm-color-primary: #00aa00;
+--ifm-color-primary-dark: #008800;
+--ifm-color-primary-darker: #006600;
+--ifm-color-primary-darkest: #004400;
+--ifm-color-primary-light: #33cc33;
+--ifm-color-primary-lighter: #66ff66;
+--ifm-color-primary-lightest: #99ff99;
+--ifm-code-font-size: 95%;
+--docusaurus-highlighted-code-line-bg: rgba(255, 255, 255, 0.1);
 }
 article a[href^="http"]::after,
 article a[href^="https://"]::after
@@ -42,6 +43,10 @@ article a[href^="https://"]::after
   display: inline-block;
 }
 article a[href^="https://docs.geopolmc.org/"]::after
+{
+  display: none !important;
+}
+article a[href^="https://ko-fi.com/"]::after
 {
   display: none !important;
 }

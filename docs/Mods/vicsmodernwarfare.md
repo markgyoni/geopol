@@ -51,8 +51,10 @@ rendering {
 ```
 
 ## Built-in Shaders
-### The modpack comes preconfigured with the following shaders: 
+**The modpack comes preconfigured with the following shaders:** 
+
 (These require Optifine and [MW shaders](#shaders) to be disabled)
+
 - Complementary Reimagined (Low)
 - Complementary Reimagined (Medium)
 - Complementary Reimagined (High)
@@ -62,4 +64,4 @@ rendering {
 - Sildur's Vibrant Shaders (Medium)
 - Sildur's Vibrant Shaders (High)
 
-**These are all tested and sorted in the shaders menu from best to worst FPS.**
+**These have all been tested and are sorted from best to worst FPS.**

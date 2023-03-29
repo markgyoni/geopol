@@ -1,3 +1,6 @@
+---
+title: Factions
+---
 # Factions
 
 ## What is a faction?
@@ -6,11 +9,13 @@ It's a group of players, like a team or a club. A faction can claim territory, w
 
 ## Territory
 
-A faction claims land by chunk, dependent on how much power they possess at a rate of 1 chunk per power. 
+A faction claims land by chunk, dependent on how much power each player possess at a rate of 1 chunk per power. Each player can have 20/20 max power, although it decreases on death, will regen over time. See below for how power works   
 
 Within its territory, members of the faction can exclusively build without interference of non-members. Your faction's territory is where you can build your base, set your faction's home location, create warp points, and more.
 
 Claiming territory is performed with the <code>/f claim</code> command.
+
+Factions with more claimed chunks than power can be "overclaimed" by more powerful factions. This is usually accomplished with a siege where attackers can either ram straight through defences or force a longer, more "traditional" seige.  
 
 ## Power
 
@@ -36,3 +41,9 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
     3. Set your faction's home by typing <code>/f sethome</code> in chat.
     4. Claim your first chunk of territory by typing <code>/f claim</code> in chat.
     5. Invite players to your faction by typing <code>/f invite [player]</code> in chat. 
+
+2. How do I declare war?    
+    1. Message your enemy faction on discord and agree on when "Hostilities" will begin. This is only semi-required as "offline" raids can net destruction of thir base, if thats what you wish, however, getting their loot will be harder, as Missles and TnT may cause items to despawn.
+    2. Type the <code>/f enemy [faction name]</code> command in chat. This will let you melee enemies inside their territory, although guns will work regardless. 
+    3. Fire away!    
+    

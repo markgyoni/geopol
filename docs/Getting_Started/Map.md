@@ -1,7 +1,7 @@
 ---
-title: Modlist
+title: The Map
 ---
-# Map
+# World Gen
 
 The map is based on realistic terrain, created with the [Vanilla Vistas](https://www.curseforge.com/minecraft/mc-mods/vanilla-vistas) preset and OTG. You can find any sort of terrain, from flat plains to mountain ranges, whilst also being able to find vanilla features, such as mineshafts and dungeons.
 
@@ -13,18 +13,18 @@ The world border is currently set to **3000 blocks** from the spawn. This is to 
 ***The Nether is disabled*** You can find all of the materials in the shop.
 
 ***The End is enabled*** ~~You can even find some custom loot in the End Cities.~~ (Coming soon)
-## Dynmap
+## Dynamic Map
 
-Dynmap is a plugin that allows you to see the map of your server in real time. It's very useful for finding your way around the server. You can also see the map on the website [here](https://map.geopolmc.org). 
+The Dynamic Map (Dynmap) is a plugin that allows you to see the map of our server in real time, and  it's very useful for finding your way around the server. You can view the map on our website [here](https://map.geopolmc.org). 
 
 Our map displays the following:
 - Player list
 - No player locations
 - Top-down view
-- Bird's eye view
+- Isometric view
 - Only the Overworld
 - Faction claims
 - World border
-- Spawn
+- Spawn's location 
 - One-way chat display from the server to the map
 - *Sadly no modded blocks*
