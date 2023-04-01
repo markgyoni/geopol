@@ -26,7 +26,7 @@ This plugin allows for you to create alcoholic drinks based on costom recipes. T
 
 You will need 3 things to brew drinks: a cauldron to ferment, a brewing stand to distill, and a barrel to age.
 
-The cauldron needs to be placed over a fire and filled with water like so:![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305066-85fa29d4-e3e5-4dba-a878-1050922de5ec.png)
+The cauldron needs to be placed over a fire and filled with water like so:          ![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305066-85fa29d4-e3e5-4dba-a878-1050922de5ec.png)
 
 The brewing stand doesn't need fuel, but it does need a single peice of glowstone in the top:![2023-04-01_12 15 59](https://user-images.githubusercontent.com/105452264/229305258-19f261a0-8208-40ba-889c-380423a78ebf.png)
 
