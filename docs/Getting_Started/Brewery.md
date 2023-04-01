@@ -51,3 +51,5 @@ The quality of a drink is dependant on how closely you followed the recipe and w
 ### Drunkness
 
 Your drunkness level is shown every time you consume alcohol above your hotbar. Some drinks will be stonger than others and you can see the alcohol level in the items description. Being drunk can have many effects, such as slurring your chat messages, making you stumble around randomly, making you puke out soul sand, and even making you faint (get kicked) if you drink too much. Drunkness goes away slowly over time, but can also be gotten rid of by eating bread and drinking milk.
+
+## Recipes
