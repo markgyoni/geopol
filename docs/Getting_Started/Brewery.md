@@ -28,6 +28,8 @@ You will need 3 things to brew drinks: a cauldron to ferment, a brewing stand to
 
 The cauldron needs to be placed over a fire and filled with water like so:
 ![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305066-85fa29d4-e3e5-4dba-a878-1050922de5ec.png)
+The brewing stand doesn't need fuel, but it does need a single peice of glowstone in the top:
+![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305202-06c0aa1e-d279-4dc3-801a-daf1b68277bc.png)
 
 #### Quality of life recipes:
 - 1 flint from 3 gravel
