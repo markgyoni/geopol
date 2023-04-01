@@ -1,23 +1,33 @@
 ---
-title: Recipe Changes
+title: Brewery
 ---
 
-# Recipe Changes
+# Alcohol
 
-This page contains information about recipe changes on the server.
+This page contains information about the alcohol plugin, Brewery, that the server uses.
 
-We have changed recipes to gate certain items with overly easy recipes. This is done to prevent players from getting certin items too early. Usually, changed recipes require more resources and investment into other mods. Also, some of these items are not balanced for our progression and the server, so we decided to change them.
+This plugin allows for you to create alcoholic drinks based on costom recipes. This page will list how to make a brewing set up and how to make all of the different brews.
 
-*These changes will not be applyed and visible if our JEI scripts are not installed on the client. (You can't craft it in the normal way, it's just won't be visible in JEI)*
+### Drinks
 
-### Item Additions
+- Wheatbeer
+- Beer
+- Darkbeer
+- Mead
+- Ethanol
+- Apple Mead
+- Rum
+- Vodka
+- Red Wine
+- White Wine
+- Absinthe
 
-- Refined Core
-- Ultimate Refined Core
-- Wither Fragment
-### Recipe Additions
+### Brewing Setup
 
-- 8 Wither Fragments to 1 Wither Skeleton Skull
+You will need 3 things to brew drinks: a cauldron to ferment, a brewing stand to distill, and a barrel to age.
+
+The cauldron needs to be placed over a fire and filled with water like so:
+![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305066-85fa29d4-e3e5-4dba-a878-1050922de5ec.png)
 
 #### Quality of life recipes:
 - 1 flint from 3 gravel
