@@ -32,7 +32,7 @@ The brewing stand doesn't need fuel, but it does need a single peice of glowston
 
 The barrel is made out of 8 wooden stairs, the wood that you need can change based on the drink you are making. You then place a sign on the bottom right of the front side with the word "Barrel" written on it:![2023-04-01_12 28 07](https://user-images.githubusercontent.com/105452264/229305806-58b94653-14be-497b-88db-e98a7bfd18a2.png)
 
-#### Fermenting:
+### Fermenting:
 
 Fermenting is the first step in creating a drink. You can ferment things using the cauldron that you put over a fire. First, make sure that there is water in the cauldron and that there is a fire directly under it. Second, put all of your ingrediants in the pot by right clicking it with the ingrediants in your hand. Different drinks will have different ingrediants, but for this example we will be using rum. Rum takes 14 sugarcane, which you would hold in your hand and right click the pot with. After your ingrediants are in the pot, you have to wait however long the recipe calls for. For our example, rum takes 5 minutes to cook. To check how long a cauldron has been boiling, you can right click it with a clock. Finally, once your cauldron has been brewing for the optimal amout of time, you can take out your fermented product using bottles.
 
@@ -52,4 +52,42 @@ The quality of a drink is dependant on how closely you followed the recipe and w
 
 Your drunkness level is shown every time you consume alcohol above your hotbar. Some drinks will be stonger than others and you can see the alcohol level in the items description. Being drunk can have many effects, such as slurring your chat messages, making you stumble around randomly, making you puke out soul sand, and even making you faint (get kicked) if you drink too much. Drunkness goes away slowly over time, but can also be gotten rid of by eating bread and drinking milk.
 
-## Recipes
+# Recipes:
+
+#### Wheatbeer:
+Ingrediants: 3 wheat
+Cooking time: 8 minutes
+Do not distill
+Age for 2 days in a birch barrel
+Potency: X
+
+#### Beer:
+Ingrediants: 6 wheat
+Cooking time: 8 minutes
+Do not distill
+Age for 3 days in a barrel
+Potency: X
+
+#### Darkbeer:
+Ingrediants: 6 wheat
+Cooking time: 8 minutes
+Do not distill
+Age for 8 days in a spruce barrel
+Potency: X
+
+#### Mead:
+Ingrediants: 6 sugarcane
+Cooking time: 3 minutes
+Do not distill
+Age for 4 days in an oak barrel
+Potency: X
+
+#### Ethanol:
+Ingrediants: 2 sugarcane
+Cooking time: 5 minutes
+Do not distill
+Do not age
+_____________________
+WARNING: DO NOT DRINK
+_____________________
+Potency: XXXXXXXXXX
