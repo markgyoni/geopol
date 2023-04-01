@@ -55,11 +55,11 @@ Your drunkness level is shown every time you consume alcohol above your hotbar. 
 # Recipes:
 
 #### Wheatbeer:
-Ingrediants: 3 wheat
-Cooking time: 8 minutes
-Do not distill
-Age for 2 days in a birch barrel
-Potency: X
+Ingrediants: 3 wheat <br/>
+Cooking time: 8 minutes<br/>
+Do not distill<br/>
+Age for 2 days in a birch barrel<br/>
+Potency: X<br/>
 
 #### Beer:
 Ingrediants: 6 wheat <br/>
@@ -67,7 +67,7 @@ Cooking time: 8 minutes <br/>
 Do not distill <br/>
 Age for 3 days in a barrel <br/>
 Potency: X <br/>
-<br/>
+
 #### Darkbeer:
 Ingrediants: 6 wheat <br/>
 Cooking time: 8 minutes <br/>
@@ -76,18 +76,18 @@ Age for 8 days in a spruce barrel <br/>
 Potency: X <br/>
 
 #### Mead:
-Ingrediants: 6 sugarcane
-Cooking time: 3 minutes
-Do not distill
-Age for 4 days in an oak barrel
-Potency: X
+Ingrediants: 6 sugarcane<br/>
+Cooking time: 3 minutes<br/>
+Do not distill<br/>
+Age for 4 days in an oak barrel<br/>
+Potency: X<br/>
 
 #### Ethanol:
-Ingrediants: 2 sugarcane
-Cooking time: 5 minutes
-Do not distill
-Do not age
+Ingrediants: 2 sugarcane<br/>
+Cooking time: 5 minutes<br/>
+Do not distill<br/>
+Do not age<br/>
 _____________________
-WARNING: DO NOT DRINK
+WARNING: DO NOT DRINK<br/>
 _____________________
-Potency: XXXXXXXXXX
+Potency: XXXXXXXXXX<br/>
