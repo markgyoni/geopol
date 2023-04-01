@@ -26,7 +26,7 @@ This plugin allows for you to create alcoholic drinks based on costom recipes. T
 
 You will need 3 things to brew drinks: a cauldron to ferment, a brewing stand to distill, and a barrel to age.
 
-The cauldron needs to be placed over a fire and filled with water like so:![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305066-85fa29d4-e3e5-4dba-a878-1050922de5ec.png)
+The cauldron needs to be placed over a fire and filled with water like so:<br/>![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305066-85fa29d4-e3e5-4dba-a878-1050922de5ec.png)
 
 The brewing stand doesn't need fuel, but it does need a single peice of glowstone in the top:![2023-04-01_12 15 59](https://user-images.githubusercontent.com/105452264/229305258-19f261a0-8208-40ba-889c-380423a78ebf.png)
 
@@ -91,3 +91,45 @@ _____________________
 WARNING: DO NOT DRINK<br/>
 _____________________
 Potency: XXXXXXXXXX<br/>
+
+#### Apple Mead:
+Ingrediants: 6 sugarcane, 2 apples<br/>
+Cooking time: 4 minutes<br/>
+Do not distill<br/>
+Age for 4 days in an oak barrel<br/>
+Potency: XX<br/>
+
+#### Rum:
+Ingrediants: 14 sugarcane<br/>
+Cooking time: 5 minutes<br/>
+Distill 2 times<br/>
+Age for 14 days in an oak barrel<br/>
+Potency: XXX<br/>
+
+#### Vodka:
+Ingrediants: 10 potatoes<br/>
+Cooking time: 15 minutes<br/>
+Distill 3 times<br/>
+Do not age<br/>
+Potency: XX<br/>
+
+#### Red Wine:
+Ingrediants: 10 beetroots<br/>
+Cooking time: 15 minutes<br/>
+Distill 3 times<br/>
+Age for 216 days in a barrel<br/>
+Potency: X<br/>
+
+#### White Wine:
+Ingrediants: 10 beetroot seeds<br/>
+Cooking time: 15 minutes<br/>
+Distill 3 times<br/>
+Age for 216 days in a barrel<br/>
+Potency: X<br/>
+
+#### Absinthe:
+Ingrediants: 15 grass<br/>
+Cooking time: 3 minutes<br/>
+Distill 6 times<br/>
+Do not age<br/>
+Potency: XXXXX<br/>
