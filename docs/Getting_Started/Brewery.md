@@ -63,17 +63,17 @@ Potency: X
 
 #### Beer:
 Ingrediants: 6 wheat <br/>
-Cooking time: 8 minutes
-Do not distill
-Age for 3 days in a barrel
-Potency: X
-
+Cooking time: 8 minutes <br/>
+Do not distill <br/>
+Age for 3 days in a barrel <br/>
+Potency: X <br/>
+<br/>
 #### Darkbeer:
-Ingrediants: 6 wheat
-Cooking time: 8 minutes
-Do not distill
-Age for 8 days in a spruce barrel
-Potency: X
+Ingrediants: 6 wheat <br/>
+Cooking time: 8 minutes <br/>
+Do not distill <br/>
+Age for 8 days in a spruce barrel <br/>
+Potency: X <br/>
 
 #### Mead:
 Ingrediants: 6 sugarcane
