@@ -46,7 +46,7 @@ The third and final step to brewing is to age your drink in the custom barrel yo
 
 ### Quality
 
-The quality of a drink is dependant on how closely you followed the recipe and what the difficulty rating of the drink is. The quality is represented by the amount of stars in your drinks description. Some drinks (like wine) are harder to make than others and you have to get the recipe perfect for it to be 5 stars. Other drinks (like beer) are easier and give you a bit of leniency if you mess up. The quality will also affect the name of the item. For example, with rum, a top quality bottle will be called Golden Rum, a mid quality bottle will be called Spicy Rum, and a low quality bottle will be called Bitter Rum.
+The quality of a drink is dependant on how closely you followed the recipe and what the difficulty rating of the drink is. The quality is represented by the amount of stars in your drink's description. Some drinks (like wine) are harder to make than others and you have to get the recipe perfect for it to be 5 stars. Other drinks (like beer) are easier and give you a bit of leniency if you mess up. The quality will also affect the name of the item. For example, with rum, a top quality bottle will be called Golden Rum, a mid quality bottle will be called Spicy Rum, and a low quality bottle will be called Bitter Rum.
 
 ### Drunkness
 
