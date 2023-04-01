@@ -62,7 +62,7 @@ Age for 2 days in a birch barrel
 Potency: X
 
 #### Beer:
-Ingrediants: 6 wheat
+Ingrediants: 6 wheat <br/>
 Cooking time: 8 minutes
 Do not distill
 Age for 3 days in a barrel
