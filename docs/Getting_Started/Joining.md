@@ -3,7 +3,7 @@ title: Joining
 ---
 # Joining
 
-**There are currently 3 ways to join our server.**
+**There is currently 1 way to join our server.**
 
 ## General Information
 
