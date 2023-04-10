@@ -1,3 +1,6 @@
+---
+title: Factions
+---
 # Strategies 
 This article will be more on the strategies of battles so player may learn from mistakes. 
 
