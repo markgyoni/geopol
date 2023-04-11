@@ -1,5 +1,5 @@
 # GeoPol MC 
-[![HitCount](https://hits.dwyl.com/markgyoni/geopol.svg)](https://hits.dwyl.com/markgyoni/geopol?style=flat)
+[![HitCount](https://hits.dwyl.com/markgyoni/geopol.svg)](https://hits.dwyl.com/markgyoni/geopol?style=flat) [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/m80r.svg)](https://betteruptime.com/?utm_source=status_badge)
 
 Welcome to the GeoPol Repository! Report any Issues or Problems you may be having in the "Issues" tab. 
 
