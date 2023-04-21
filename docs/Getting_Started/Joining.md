@@ -1,31 +1,29 @@
+---
+title: Joining
+---
 # Joining
 
-**There are currently 3 ways to join our server.**
+**There is currently 1 way to join our server.**
 
 ## General Information
 
-We provide modpacks to our players to ease the joining process. Currently we have 2 versions:
-- **Normal** (Includes every required mod and the custom scripts)
-- **Extras** (Features in Normal + Multiple optimization mods to help the client performance)
+We provide the modpack to our players to ease the joining process. ~~Currently we have two versions:~~ 
+**(We're only focused on 1 version. The Extras modpack might come later.)**
+- **Normal** (Includes every required mod and the custom scripts. Less storage required)
+- ~~**Extras** (Features in Normal + Multiple optimization mods to help the client performance)~~
 
-These can only be found on the [**Discord**](https://discord.geopolmc.org). The modpacks get updated regularly. When this happens, everyone has to redownload and import them again in their preferred launcher. More on this below.
+Modification for a unfair advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone)   
 
-We will apply for an official modpack on Curseforge after MW gets fully released. When this happens, it will be available right from the Curseforge search bar.
-
-## Curseforge
-
-The easiest way to install our modpacks is through [Curseforge](https://curseforge.com/). You can find the CF downloads in the [Discord](https://discord.geopolmc.org). After installing CF and selecting Minecraft, click on the "**Create Custom Profile**" text next to the search bar. After this, there is a clickable import text at the top. From here, you can import the downloaded files and start playing, once it finishes downloading. (CF requires you to login with your Microsoft account.)
-
-Beware: We create multiple versions of our modpacks so only look out for the CF versions.
-
-## GDLauncher
-
-Both [GDLauncher](https://gdlauncher.com/) and the modpack installation process is similar to Curseforge. This launcher is only focused on Minecraft, while CF manages mods for many more games. After installing, click on the "+" button in the lower right corner and select the "Import Zip" section. Here you can import the modpack and start playing. (GDL requires you to login with your Microsoft account.)
-
-Beware: We create multiple versions of our modpacks so only look out for the GD versions.
+The modpack gets updated regularly. When this happens, an update will be required. More on this below.
 
 ## Ram
 
-yes
+We recommend at least 6GB of RAM due to the amount of mods and assets. If you have more than 6GB available, feel free to allocate more RAM (8GB or even 10GB is fine) This will help with performance and will reduce lag.
 
-## Manually
+To change the amount of RAM given to each Minecraft instance in the Curseforge launcher, head over to the settings button localted in the lower right corner. Then click on Minecraft, scroll down and change the amount with the slider.
+
+## Curseforge Install
+
+To install the modpack, open your favorite launcher and search for GeoPol. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders) In the event of a modpack update, press the two arrows next to the "Play" button and download the newest version. [More info on updating](https://support.curseforge.com/en/support/solutions/articles/9000206622-how-to-update-change-a-modpack-s-version)   
+
+Alternatively, you can install the modpack from the [**Curseforge Website**](https://www.curseforge.com/minecraft/modpacks/geopol), but you will need to manually import the zip file into your launcher.
