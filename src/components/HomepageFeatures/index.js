@@ -24,7 +24,7 @@ const FeatureList = [
   },
   {
     title: 'Growing Community',
-    img: factionsPNG,
+    img: communitygeopolPNG,
     description: (
       <>
         Make your voice heard, suggest new features or advertise your faction!
