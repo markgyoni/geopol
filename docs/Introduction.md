@@ -5,6 +5,8 @@ sidebar_position: 1
 
 # Introduction
 
+![](..\static\img\banner.png)
+
 Welcome to **GeoPol**!
 
 **GeoPol** is a modded Minecraft server featuring VMW, and revolves around faction warfare and geopolitics. Players can form factions, trade and go to war. 

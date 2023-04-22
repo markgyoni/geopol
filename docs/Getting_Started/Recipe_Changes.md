@@ -4,6 +4,12 @@ title: Recipe Changes
 
 # Recipe Changes
 
+:::warn Beware
+
+Even with these changes, some recipes still conflict. If you find the same crafting recipe for two different items, please use the **Treated Wood Crafting Table** from **Engineer's Decor**.
+
+:::
+
 This page contains information about recipe changes on the server.
 
 We have changed recipes to gate certain items with overly easy recipes. This is done to prevent players from getting certin items too early. Usually, changed recipes require more resources and investment into other mods. Also, some of these items are not balanced for our progression and the server, so we decided to change them.
