@@ -4,7 +4,7 @@ title: Recipe Changes
 
 # Recipe Changes
 
-:::warn Beware
+:::caution
 
 Even with these changes, some recipes still conflict. If you find the same crafting recipe for two different items, please use the **Treated Wood Crafting Table** from **Engineer's Decor**.
 
