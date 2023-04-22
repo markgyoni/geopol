@@ -54,7 +54,7 @@ const config = {
         title: 'GeoPol Docs',
         logo: {
           alt: 'GeoPol Logo',
-          src: 'img/NEWLOGO1.png',
+          src: 'img/logosquare.png',
         },
         items: [
           {
