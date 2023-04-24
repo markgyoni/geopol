@@ -36,6 +36,11 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
 
 1. How do I make a faction?
 
+    1. To create a faction, the leader should apply in the #tickets channel. 
+    2. Here, your faction’s name, description and goals will be reviewed. If accepted, you’ll be given the faction leader role and the ability to create a faction on the server. 
+    3. From here, the recruitment post can be made in the #factions channel. 
+
+
     1. You can make a faction by typing <code>/f create [name]</code> in chat. 
     2. Add a description to your faction by typing <code>/f desc [description]</code> in chat.
     3. Set your faction's home by typing <code>/f sethome</code> in chat.
