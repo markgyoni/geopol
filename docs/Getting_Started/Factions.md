@@ -41,13 +41,13 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
     3. From here, the recruitment post can be made in the #factions channel. 
 
 
-    1. You can make a faction by typing <code>/f create [name]</code> in chat. 
-    2. Add a description to your faction by typing <code>/f desc [description]</code> in chat.
-    3. Set your faction's home by typing <code>/f sethome</code> in chat.
-    4. Claim your first chunk of territory by typing <code>/f claim</code> in chat.
-    5. Invite players to your faction by typing <code>/f invite [player]</code> in chat. 
+2. You can make a faction by typing <code>/f create [name]</code> in chat. 
+    1. Add a description to your faction by typing <code>/f desc [description]</code> in chat.
+    2. Set your faction's home by typing <code>/f sethome</code> in chat.
+    3. Claim your first chunk of territory by typing <code>/f claim</code> in chat.
+    4. Invite players to your faction by typing <code>/f invite [player]</code> in chat. 
 
-2. How do I declare war?    
+3. How do I declare war?    
     1. Message your enemy faction on discord and agree on when "Hostilities" will begin. This is only semi-required as "offline" raids can net destruction of thir base, if thats what you wish, however, getting their loot will be harder, as Missles and TnT may cause items to despawn.
     2. Type the <code>/f enemy [faction name]</code> command in chat. This will let you melee enemies inside their territory, although guns will work regardless. 
     3. Fire away!    
