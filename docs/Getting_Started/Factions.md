@@ -32,7 +32,7 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
 
 ---
 
-# Factions FAQ
+## Factions FAQ
 
 1. How do I make a faction?
 
