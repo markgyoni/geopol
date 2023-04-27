@@ -6,7 +6,7 @@ title: Brewery
 
 This page contains information about the alcohol plugin, Brewery, that the server uses.
 
-This plugin allows for you to create alcoholic drinks based on costom recipes. This page will list how to make a brewing set up and how to make all of the different brews.
+This plugin allows for you to create alcoholic drinks based on custom recipes. This page will list how to make a brewing set up and how to make all of the different brews.
 
 ### Drinks:
 
@@ -28,13 +28,13 @@ You will need 3 things to brew drinks: a cauldron to ferment, a brewing stand to
 
 The cauldron needs to be placed over a fire and filled with water like so:<br/>![2023-04-01_12 07 20](https://user-images.githubusercontent.com/105452264/229305066-85fa29d4-e3e5-4dba-a878-1050922de5ec.png)
 
-The brewing stand doesn't need fuel, but it does need a single peice of glowstone in the top:![2023-04-01_12 15 59](https://user-images.githubusercontent.com/105452264/229305258-19f261a0-8208-40ba-889c-380423a78ebf.png)
+The brewing stand doesn't need fuel, but it does need a single piece of glowstone in the top:![2023-04-01_12 15 59](https://user-images.githubusercontent.com/105452264/229305258-19f261a0-8208-40ba-889c-380423a78ebf.png)
 
 The barrel is made out of 8 wooden stairs, the wood that you need can change based on the drink you are making. You then place a sign on the bottom right of the front side with the word "Barrel" written on it:![2023-04-01_12 28 07](https://user-images.githubusercontent.com/105452264/229305806-58b94653-14be-497b-88db-e98a7bfd18a2.png)
 
 ### Fermenting:
 
-Fermenting is the first step in creating a drink. You can ferment things using the cauldron that you put over a fire. First, make sure that there is water in the cauldron and that there is a fire directly under it. Second, put all of your ingrediants in the pot by right clicking it with the ingrediants in your hand. Different drinks will have different ingrediants, but for this example we will be using rum. Rum takes 14 sugarcane, which you would hold in your hand and right click the pot with. After your ingrediants are in the pot, you have to wait however long the recipe calls for. For our example, rum takes 5 minutes to cook. To check how long a cauldron has been boiling, you can right click it with a clock. Finally, once your cauldron has been brewing for the optimal amout of time, you can take out your fermented product using bottles.
+Fermenting is the first step in creating a drink. You can ferment things using the cauldron that you put over a fire. First, make sure that there is water in the cauldron and that there is a fire directly under it. Second, put all of your ingredients in the pot by right clicking it with the ingredients in your hand. Different drinks will have different ingredients, but for this example we will be using rum. Rum takes 14 sugarcane, which you would hold in your hand and right click the pot with. After your ingredients are in the pot, you have to wait however long the recipe calls for. For our example, rum takes 5 minutes to cook. To check how long a cauldron has been boiling, you can right click it with a clock. Finally, once your cauldron has been brewing for the optimal amount of time, you can take out your fermented product using bottles.
 
 ### Distilling
 
@@ -55,35 +55,35 @@ Your drunkness level is shown every time you consume alcohol above your hotbar. 
 # Recipes:
 
 #### Wheatbeer:
-Ingrediants: 3 wheat <br/>
+Ingredients: 3 wheat <br/>
 Cooking time: 8 minutes<br/>
 Do not distill<br/>
 Age for 2 days in a birch barrel<br/>
 Potency: X<br/>
 
 #### Beer:
-Ingrediants: 6 wheat <br/>
+Ingredients: 6 wheat <br/>
 Cooking time: 8 minutes <br/>
 Do not distill <br/>
 Age for 3 days in a barrel <br/>
 Potency: X <br/>
 
 #### Darkbeer:
-Ingrediants: 6 wheat <br/>
+Ingredients: 6 wheat <br/>
 Cooking time: 8 minutes <br/>
 Do not distill <br/>
 Age for 8 days in a spruce barrel <br/>
 Potency: X <br/>
 
 #### Mead:
-Ingrediants: 6 sugarcane<br/>
+Ingredients: 6 sugarcane<br/>
 Cooking time: 3 minutes<br/>
 Do not distill<br/>
 Age for 4 days in an oak barrel<br/>
 Potency: X<br/>
 
 #### Ethanol:
-Ingrediants: 2 sugarcane<br/>
+Ingredients: 2 sugarcane<br/>
 Cooking time: 5 minutes<br/>
 Do not distill<br/>
 Do not age<br/>
@@ -93,42 +93,42 @@ _____________________
 Potency: XXXXXXXXXX<br/>
 
 #### Apple Mead:
-Ingrediants: 6 sugarcane, 2 apples<br/>
+Ingredients: 6 sugarcane, 2 apples<br/>
 Cooking time: 4 minutes<br/>
 Do not distill<br/>
 Age for 4 days in an oak barrel<br/>
 Potency: XX<br/>
 
 #### Rum:
-Ingrediants: 14 sugarcane<br/>
+Ingredients: 14 sugarcane<br/>
 Cooking time: 5 minutes<br/>
 Distill 2 times<br/>
 Age for 14 days in an oak barrel<br/>
 Potency: XXX<br/>
 
 #### Vodka:
-Ingrediants: 10 potatoes<br/>
+Ingredients: 10 potatoes<br/>
 Cooking time: 15 minutes<br/>
 Distill 3 times<br/>
 Do not age<br/>
 Potency: XX<br/>
 
 #### Red Wine:
-Ingrediants: 10 beetroots<br/>
+Ingredients: 10 beetroots<br/>
 Cooking time: 15 minutes<br/>
 Distill 3 times<br/>
 Age for 216 days in a barrel<br/>
 Potency: X<br/>
 
 #### White Wine:
-Ingrediants: 10 beetroot seeds<br/>
+Ingredients: 10 beetroot seeds<br/>
 Cooking time: 15 minutes<br/>
 Distill 3 times<br/>
 Age for 216 days in a barrel<br/>
 Potency: X<br/>
 
 #### Absinthe:
-Ingrediants: 15 grass<br/>
+Ingredients: 15 grass<br/>
 Cooking time: 3 minutes<br/>
 Distill 6 times<br/>
 Do not age<br/>
