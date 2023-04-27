@@ -32,7 +32,9 @@ We have changed recipes to gate certain items with overly easy recipes. This is 
 ### Recipe Removals  
 
 - 152mm Nuclear Shell
-- 100rnd magazines for all weapons that aren't LMG's
+- 100rnd magazines
+- All diamond armors
+
 ### Recipe Changes
 - Refined Storage Machine Casing requires 1 Refined Core instead of 1 Stone.
 - Modern Warfare Cubed Weapon and Armor Workbenchs
