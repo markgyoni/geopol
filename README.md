@@ -1,5 +1,5 @@
 # GeoPol MC 
-[![HitCount](https://hits.dwyl.com/markgyoni/geopol.svg)](https://hits.dwyl.com/markgyoni/geopol?style=flat) [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/m80r.svg)](https://betteruptime.com/?utm_source=status_badge) <a href="https://www.curseforge.com/minecraft/modpacks/geopol_style=flat"><img src="https://cf.way2muchnoise.eu/title/geopol_Play_%20.svg?badge_style=flat"></a>
+[![HitCount](https://hits.dwyl.com/markgyoni/geopol.svg)](https://hits.dwyl.com/markgyoni/geopol?style=flat) [![Better Uptime Badge](https://betteruptime.com/status-badges/v1/monitor/m80r.svg)](https://betteruptime.com/?utm_source=status_badge) <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/title/geopol_Play_%20.svg"></a>
 <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/full_geopol_downloads.svg"></a>
 <a href="https://www.curseforge.com/minecraft/modpacks/geopol"><img src="https://cf.way2muchnoise.eu/versions/geopol_latest.svg"></a>
 
