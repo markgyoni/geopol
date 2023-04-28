@@ -7,7 +7,7 @@ The map is based on realistic terrain, created with the [Vanilla Vistas](https:/
 
 ### World Border
 
-The world border is currently set to **3000 blocks** from the spawn. This is to stop players from exploring too far away from the spawn, and to prevent lag. The world border will be expanded in the future, but not too much, as we want to keep the map small and compact to have centralized battles and factions.
+The world border is currently set to **3000 blocks** from the spawn. This is to stop players from exploring too far away from the spawn, and to prevent lag. The world border will be expanded in the future, but not too much, as we want to keep the map compact to have more centralized battles and factions.
 ### Dimensions
 
 ***The Nether is disabled*** You can find all of the materials in the shop.
@@ -20,8 +20,7 @@ The Dynamic Map (Dynmap) is a plugin that allows you to see the map of our serve
 Our map displays the following:
 - Player list
 - No player locations
-- Top-down view
-- Isometric view
+- Top-down view and Isometric view
 - Only the Overworld
 - Faction claims
 - World border
