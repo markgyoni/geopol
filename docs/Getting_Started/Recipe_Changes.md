@@ -16,6 +16,18 @@ We have changed recipes to gate certain items with overly easy recipes. This is 
 
 *These changes will not be applyed and visible if our JEI scripts are not installed on the client. (You can't craft it in the normal way, it's just won't be visible in JEI)*
 
+## Temporary List of Banned Items
+
+:::warning
+
+Some recipies are not removed yet. Don't craft them.
+
+:::
+- 152mm Nuclear Shell
+- 100rnd magazines
+- All diamond armors
+- All MWC vests
+
 ### Item Additions
 
 - Refined Core
