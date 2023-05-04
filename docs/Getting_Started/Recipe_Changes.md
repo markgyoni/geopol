@@ -27,6 +27,7 @@ Some recipies may not be removed yet. Don't craft them.
 - 100rnd magazines
 - Diamond armor in its various forms. Includes colored versions. 
 - All MWC vests
+- MWC turrets
 - Elytra
 
 ### Item Additions

@@ -1,6 +1,7 @@
----
-title: Brewery
----
+### Here you can find details about disabled features and other not so important things.
+
+<details>
+<summary>Brewery (Disabled due to extreme memory leak)</summary>
 
 # Alcohol
 
@@ -133,3 +134,5 @@ Cooking time: 3 minutes<br/>
 Distill 6 times<br/>
 Do not age<br/>
 Potency: XXXXX<br/>
+
+</details>
