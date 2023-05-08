@@ -1,6 +1,15 @@
 ### Here you can find details about disabled features and other not so important things.
 
 <details>
+<summary>Trusted TV Domains</summary>
+
+- imgur.com
+- tenor.com
+- giphy.com
+
+</details>
+
+<details>
 <summary>Brewery (Disabled due to extreme memory leak)</summary>
 
 # Alcohol
