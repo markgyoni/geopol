@@ -1,5 +1,6 @@
 ---
 title: Refined Storage
+sidebar_position: 3
 ---
 
 Refined Storage is a storage mod where you can build a storage network made up of devices. Those devices manipulate your storage. This page is based on the [Official Wiki](https://refinedmods.com/refined-storage/wiki/).

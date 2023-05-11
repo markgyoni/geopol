@@ -1,5 +1,6 @@
 ---
 title: Recipe Changes
+sidebar_position: 4
 ---
 
 # Recipe Changes

@@ -1,9 +1,10 @@
 ---
 title: Joining
+sidebar_position: 1
 ---
 # Joining
 
-**There is currently 1 way to join our server.**
+**There is currently 2 ways to join our server.**
 
 ## General Information
 
@@ -22,8 +23,19 @@ We recommend at least 6GB of RAM due to the amount of mods and assets. If you ha
 
 To change the amount of RAM given to each Minecraft instance in the Curseforge launcher, head over to the settings button localted in the lower right corner. Then click on Minecraft, scroll down and change the amount with the slider.
 
-## Curseforge Install
+## Modrinth
 
-To install the modpack, open your favorite launcher and search for GeoPol. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders) In the event of a modpack update, press the two arrows next to the "Play" button and download the newest version. [More info on updating](https://support.curseforge.com/en/support/solutions/articles/9000206622-how-to-update-change-a-modpack-s-version)   
+To install from Modrinth, download an open [Prism Launcher](https://prismlauncher.org/), [ATLauncher](https://atlauncher.com/) or [MultiMC](https://multimc.org/) and search for GeoPol in the modpacks. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders).
+
+### Why Modrinth?
+*to be continued...*
+
+## Curseforge
+
+To install, open your favorite launcher and search for GeoPol. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders) In the event of a modpack update, press the two arrows next to the "Play" button and download the newest version. [More info on updating](https://support.curseforge.com/en/support/solutions/articles/9000206622-how-to-update-change-a-modpack-s-version)
 
 Alternatively, you can install the modpack from the [**Curseforge Website**](https://www.curseforge.com/minecraft/modpacks/geopol), but you will need to manually import the zip file into your launcher.
+
+---
+
+After installing, launch the game and click on the "Join GeoPol" button. This will take you directly to the lobby. If for some reason you still can't join, the ip is: **geopolmc.org**

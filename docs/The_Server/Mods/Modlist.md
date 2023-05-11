@@ -1,5 +1,6 @@
 ---
 title: Modlist
+sidebar_position: 4
 ---
 ## [GeoPol Modlist](https://docs.google.com/spreadsheets/d/1lt6IsWVIkvaKftIERL6LXFQmhK5-tKqq-gd-9s86_X8/edit?usp=sharing)
 

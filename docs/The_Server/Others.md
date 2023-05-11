@@ -1,3 +1,8 @@
+---
+title: Others
+sidebar_position: 6
+---
+
 ### Here you can find details about disabled features and other not so important things.
 
 <details>

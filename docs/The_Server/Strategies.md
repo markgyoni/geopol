@@ -1,5 +1,6 @@
 ---
 title: Strategies
+sidebar_position: 4
 ---
 # Strategies 
 This article is a overview of the strategies used in battles so players may learn from other players mistakes. 

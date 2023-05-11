@@ -1,5 +1,6 @@
 ---
 title: Quests
+sidebar_position: 3
 ---
 :::caution
 

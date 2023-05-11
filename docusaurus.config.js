@@ -24,8 +24,16 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
-  },
+    locales: ['en', 'ru'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      ru: {
+        label: 'Russian',
+      },
+    },
+    },
 
   presets: [
     [
@@ -41,8 +49,9 @@ const config = {
           showReadingTime: false,
         },
         theme: {
-          customCss: require.resolve('./src/css/custom.css'),
+          customCss: require.resolve('./src/css/custom.css'), 
         },
+        
       }),
     ],
   ],
@@ -67,6 +76,10 @@ const config = {
             href: 'https://discord.geopolmc.org',
             label: 'Discord',
             position: 'right',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'left',
           },
         ],
       },
@@ -156,6 +169,7 @@ const config = {
   
         //... other Algolia params
       },
+      
     }),
 };
 

@@ -1,5 +1,6 @@
 ---
 title: The Map
+sidebar_position: 1
 ---
 # World Gen
 

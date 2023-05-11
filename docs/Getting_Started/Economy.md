@@ -1,5 +1,6 @@
 ---
 title: Economy
+sidebar_position: 3
 ---
 
 (Our economy is handled by the [Essentials](https://essentialsx.net/) $ system.)
