@@ -4,7 +4,7 @@ sidebar_position: 1
 ---
 # World Gen
 
-The map is based on realistic terrain, created with the [Vanilla Vistas](https://www.curseforge.com/minecraft/mc-mods/vanilla-vistas) preset and OTG. You can find any sort of terrain, from flat plains to mountain ranges, whilst also being able to find vanilla features, such as mineshafts and dungeons.
+The map is the Earth on a 1:2000 scale. You can find any sort of terrain, from the plains of the midwest to the mighty mountains of the Caucasus, generating with all the needed ores and structures.
 
 ### World Border
 
