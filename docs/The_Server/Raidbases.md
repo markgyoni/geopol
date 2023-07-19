@@ -7,8 +7,6 @@ sidebar_position: 3
 
 Raidbases are pre-made bases run by npcs from the custom npcs mod. There are 5 tiers of raidbase with 1 being the easiest and 5 being the hardest. These bases can be a great source of supplies, weapons, and money, but they do come with some risks. If players can fight their way into a raidbase, they must find one of the loot chests typically in the deepest part of the base. After opening a chest, the players will be given a timer to loot all they can and get out. After the timer runs out, the raidbase will be filled in with barriers and all players still inside will be teleported out. After a cooldown that varies for each base, the base will be re-opened and announced in chat.
 
-Note: If the server restarts during either the cooldown or timer, the time will restart.
-
 ## Tier 1
 
 The tier 1 raidbase is the easiest but least rewarding raidbase. Located at -750, -70, this raidbase is run by common bandits who won't put up much of a fight if dealt with strategically. Although an invisible wall prevents flanking from the back or sides, players can choose to charge in head-on or try to lure enemies out one by one. There is one loot chest in the base that has useful supplies and the occasional pistol for a starting player. After opening the chest, players will have 30 seconds to grab what they need before the base goes on its 30 minute long cooldown.
