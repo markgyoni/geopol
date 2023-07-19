@@ -1,5 +1,5 @@
 ---
-title: Community
+title: Airdrops
 sidebar_position: 7
 ---
 
