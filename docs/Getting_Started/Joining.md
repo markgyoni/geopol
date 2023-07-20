@@ -11,7 +11,6 @@ sidebar_position: 1
 We provide the modpack to our players to ease the joining process. ~~Currently we have two versions:~~ 
 **(We're only focused on 1 version. The Extras modpack might come later.)**
 - **Normal** (Includes every required mod and the custom scripts. Less storage required)
-- ~~**Extras** (Features in Normal + Multiple optimization mods to help the client performance)~~
 
 Modification for a unfair advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone)   
 
