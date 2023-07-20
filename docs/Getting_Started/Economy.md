@@ -7,10 +7,6 @@ sidebar_position: 3
 
 ## How to earn money
 
-### Quests
-
-Quests are a great way to earn some starter money. You can find these in the top left corner of you inventory.
-
 ### Shop
 
 The shop allows you to buy and sell basic materials and nether exclusive items. You can access this with the `/shop` command.
@@ -21,7 +17,7 @@ The Auction House is the place to trade your items for money with other players.
 
 ### Vouchers
 
-Just like redeeming vouchers, you can also write them to give to other players or to store money in an item form. A list of all possible vouchers can be found in-game with the `/voucher list` command.
+Just like redeeming vouchers, you can also write them to give to other players or to store money in an item form. Using paper and the /voucher command you can set a value you'd like to store on the voucher. Many of these vouches can be found at the new raidbases.
 
 ### Voting
 
