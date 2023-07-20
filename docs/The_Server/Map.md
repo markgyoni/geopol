@@ -4,11 +4,12 @@ sidebar_position: 1
 ---
 # World Gen
 
-The map is the Earth on a 1:2000 scale. You can find any sort of terrain, from the plains of the midwest to the mighty mountains of the Caucasus, generating with all the needed ores and structures.
+The map is a BoP world with a 4000 x 4000 barrier, meaning 2k in each side out from spawn. You can find any sort of terrain, from the low sweeping plains to the high mountains, generating with all the needed ores and structures.
 
 ### World Border
 
-The world border is currently set to **8000 blocks** from the spawn. This is to stop players from exploring too far away from the spawn, and to prevent lag. The world border may be expanded in the future, but not too much, as we want to keep the map compact to have more centralized battles and factions.
+The world border is currently set to **4000 blocks** from the spawn, so 2k in each direction. This is to stop players from exploring too far away from the spawn, and to prevent lag. The world border may be expanded in the future, but not too much, as we want to keep the map compact to have more centralized battles and factions.
+
 ### Dimensions
 
 ***The Nether is disabled*** You can find all of the materials in the shop.
