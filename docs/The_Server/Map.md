@@ -17,7 +17,7 @@ The world border is currently set to **4000 blocks** from the spawn, so 2k in ea
 ***The End is enabled*** ~~You can even find some custom loot in the End Cities.~~ (Coming soon)
 ## Dynamic Map
 
-The Dynamic Map (Dynmap) is a plugin that allows you to see the map of our server in real time, and  it's very useful for finding your way around the server. You can view the map on our website [here](https://map.geopolmc.org). 
+The Dynamic Map (Dynmap) is a plugin that allows you to see the map of our server in real time, and  it's very useful for finding your way around the server. You can view the map on our website [here](http://51.91.25.191:5311/). 
 
 Our map displays the following:
 - Player list
