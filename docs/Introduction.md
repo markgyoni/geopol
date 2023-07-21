@@ -13,6 +13,8 @@ Welcome to **GeoPol**!
 
 Want to wage guerilla warfare in the mountains? You can do that. Want to build road systems, electric lines and other infrastructure? You can do that. Form alliances and make enemies, or drive tanks and fly attack helicopters? You can do that. **GeoPol** is for anyone who is interested in geopolitics, history and warfare, all in Minecraft with a growing community of multiple factions.
 
+**[Dynmap](http://51.91.25.191:5311/)** 
+
 :::success Note
 
 #
