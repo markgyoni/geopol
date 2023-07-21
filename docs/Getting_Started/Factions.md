@@ -26,6 +26,8 @@ When a player is part of a faction, their faction's power is calculated as a tot
 
 If, through player death or players leaving a faction, territory count is greater than power the faction can be raided by enemies who can now destroy blocks in their enemy's territory and maybe even claim territory away from the faction.
 
+Power now has a maximum cap of 75 (this can be adjusted upon player feedback.
+
 ## Colored Armor
 The Coloured Armor mod is extremely important in many situations you may find yourself in GeoPol. 
 
@@ -49,7 +51,7 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
     4. Invite players to your faction by typing <code>/f invite [player]</code> in chat. 
 
 3. How do I declare war?    
-    1. Message your enemy faction on discord and agree on when "Hostilities" will begin. This is only semi-required as "offline" raids can net destruction of thir base, if thats what you wish, however, getting their loot will be harder, as Missles and TnT may cause items to despawn.
+    1. Message your enemy faction on discord and agree on when "Hostilities" will begin. This is only semi-required as "offline" raids can net destruction of their base, if thats what you wish, however, getting their loot will be harder, as Missiles and TnT may cause items to despawn, complete and total offlining (the enemy is not online and you never declared hostiltiles (even if so) is banned.
     2. Type the <code>/f enemy [faction name]</code> command in chat. This will let you melee enemies inside their territory, although guns will work regardless. 
     3. Fire away!    
     
