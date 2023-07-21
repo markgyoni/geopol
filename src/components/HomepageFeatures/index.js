@@ -19,7 +19,7 @@ const FeatureList = [
     img: weaponsPNG,
     description: (
       <>
-        Fight battles with HD quality guns from the VMW mod!
+        Fight battles with HD quality guns from the MWC mod!
       </>
     ),
   },
