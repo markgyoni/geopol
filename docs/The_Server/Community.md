@@ -14,6 +14,6 @@ The GeoPol team is dedicated to making GeoPol a fun and enjoyable server, where 
 
 ## Support us
 
-Currently GeoPol is a non-profit server. We do not have any plans to monetize the server. However, we do have a [ko-fi page](https://ko-fi.com/geopolmc), here you can make one-time donations or even subscribe to a monthly payment. We will use the money to pay for the server and premium features that help us keep a stable and enjoyable enviroment.
+Currently, GeoPol is a non-profit server. We do not have any plans to monetize the server. However, we do have a [ko-fi page](https://ko-fi.com/geopolmc), where you can make one-time donations or even subscribe to a monthly payment. We will use the money to pay for the server and premium features that help us keep a stable and enjoyable environment.
 
-[![Our ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7HDTGR)
+[![Our ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/geopolmc)

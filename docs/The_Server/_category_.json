@@ -1,8 +1,8 @@
 {
-  "label": "The Server",
+  "label": "Server Info",
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "More detailed information about the server."
+    "description": "More detailed information about the systems of the server."
   }
 }

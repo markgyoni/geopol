@@ -20,4 +20,4 @@ Everyone is welcome to contribute to our project! Feel free to open tickets on o
 
 ## Support Us
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/B0B7HDTGR)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/geopolmc)
