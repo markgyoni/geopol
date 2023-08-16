@@ -1,9 +1,9 @@
 ---
-title: Others
+title: Other
 sidebar_position: 6
 ---
 
-### Here you can find details about disabled features and other not so important things.
+### Here you can find details about disabled features and other not-so-important things.
 
 <details>
 <summary>Trusted TV Domains</summary>
