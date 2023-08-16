@@ -6,32 +6,33 @@ sidebar_position: 2
 
 ## What is a faction?
 
-It's a group of players, like a team or a club. A faction can claim territory, work together to build a base, and build (or destroy) relationships with other factions.
+A faction is a group of players, like a team or a club. A faction can claim territory, work together to build a base, and build (or destroy) relationships with other factions.
 
 ## Territory
 
-A faction claims land by chunk, dependent on how much power each player possess at a rate of 1 chunk per power. Each player can have 20/20 max power, although it decreases on death, will regen over time. See below for how power works   
+A faction claims land by chunk, dependent on how much power each player possesses at a rate of 1 chunk per power. Each player can have 20/20 max power, although it decreases on death, it will regen over time. See below for how power works   
 
-Within its territory, members of the faction can exclusively build without interference of non-members. Your faction's territory is where you can build your base, set your faction's home location, create warp points, and more.
+Within its territory, members of the faction can exclusively build without interference from non-members. Your faction's territory is where you can build your base, set your faction's home location, create warp points, and more.
 
 Claiming territory is performed with the <code>/f claim</code> command.
 
-Factions with more claimed chunks than power can be "overclaimed" by more powerful factions. This is usually accomplished with a siege where attackers can either ram straight through defences or force a longer, more "traditional" seige.  
+Factions with more claimed chunks than power can be "overclaimed" by more powerful factions. This is usually accomplished with a siege where attackers can either ram straight through defenses or force a longer, more "traditional" siege.  
 
 ## Power
 
-Every player has a quantity of "power." A new player typically starts with 0 power and slowly gains power over time by playing on the server. Dying takes a way a set amount of power.
+Every player has a quantity of "power." A new player typically starts with 0 power and slowly gains power over time by playing on the server. Dying takes away a set amount of power.
 
-When a player is part of a faction, their faction's power is calculated as a total of its players' power. Power is how factions acquire territory, or raid another faction. A faction can claim territory as long as its power is greater than its current territory claims.
+When a player is part of a faction, their faction's power is calculated as a total of its players' power. Power is how factions acquire territory or raid another faction. A faction can claim territory as long as its power is greater than its current territory claims.
 
 If, through player death or players leaving a faction, territory count is greater than power the faction can be raided by enemies who can now destroy blocks in their enemy's territory and maybe even claim territory away from the faction.
 
-Power now has a maximum cap of 75 (this can be adjusted upon player feedback.
+Faction power now has a maximum cap of 75. This means that no matter how many players are in your faction, you can only claim a max of 75 chunks. This can be adjusted upon player feedback.
 
 ## Colored Armor
+
 The Coloured Armor mod is extremely important in many situations you may find yourself in GeoPol. 
 
-One example is firefights, you do not want to shoot your buddies, only the enemy. Another great way is identifying yourself to fellow faction members or to show that you are ready to take on any enemy.
+One example is firefights, you do not want to shoot your buddies, only the enemy. Another great way is to identify yourself to fellow faction members or to show that you are ready to take on any enemy.
 
 ---
 
@@ -40,7 +41,7 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
 1. How do I make a faction?
 
     1. To create a faction, the leader should apply in the #tickets channel. 
-    2. Here, your faction’s name, description and goals will be reviewed. If accepted, you’ll be given the faction leader role and the ability to create a faction on the server. 
+    2. Here, your faction’s name, description, and goals will be reviewed. If accepted, you’ll be given the faction leader role and the ability to create a faction on the server. 
     3. From here, the recruitment post can be made in the #factions channel. 
 
 
