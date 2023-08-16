@@ -17,41 +17,20 @@ We have changed recipes to gate certain items with overly easy recipes. This is 
 
 *These changes will not be visible if our JEI scripts are not installed on the client.*
 
-## Temporary List of Banned Items
+## List of Banned Items
 
 :::warning
 
 Some recipies may not be removed yet. Don't craft them.
 
 :::
-- 152mm Nuclear Shell
-- 100rnd magazines
-- Diamond armor in its various forms. Includes colored versions. 
-- All MWC vests
+- 152mm Nuclear Shell's
+- 100rnd magazines (Excludes weapons that only except 100rnd mag's)
+- Diamond armor. Includes colored versions. 
 - MWC turrets
-- Elytra
-
-### Item Additions
-
-- Refined Core
-- Ultimate Refined Core
-- Wither Fragment
-### Recipe Additions
-
-- 8 Wither Fragments to 1 Wither Skeleton Skull
-
-#### Quality of Life Additions
-- 1 flint from 3 gravel
-- 8 logs to 4 chests
-
-### Recipe Removals  
-
-- 152mm Nuclear Shell
-- 100rnd magazines
-- All diamond armors
+- Elytra's 
 
 ### Recipe Changes
-- Refined Storage Machine Casing requires 1 Refined Core instead of 1 Stone.
 - Modern Warfare Cubed Weapon and Armor Workbench.
 - Modern Warfare Cubed Ammo Press.
 - All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.
