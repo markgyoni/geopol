@@ -11,24 +11,24 @@ We provide the modpack to our players to ease the joining process. You can downl
 
 - **Normal** (Includes every required mod and the custom scripts)
 
-Modification of the client for a advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone)   
+Modification of the client for an advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone, Fullbring)   
 
-The modpack gets updated regularly. When this happens, an update will be required. More on this below.
+The modpack gets updated regularly. When this happens, an update will be required before rejoining. More on this below.
 
 ### Ram
 
 We recommend at least 6GB of RAM due to the amount of mods and assets. If you have more than 6GB available, feel free to allocate more RAM (8GB or even 10GB is fine) This will help with performance and will reduce lag.
 
-To change the amount of RAM given to each Minecraft instance in the Curseforge launcher, head over to the settings button localted in the lower right corner. Then click on Minecraft, scroll down and change the amount with the slider.
+To change the amount of RAM given to each Minecraft instance in the Curseforge launcher, head over to the settings button located in the lower right corner. Then click on Minecraft, scroll down, and change the amount with the slider.
 
-## Modrinth
+## Installing using Modrinth
 
 To install from Modrinth, download an open [Prism Launcher](https://prismlauncher.org/), [ATLauncher](https://atlauncher.com/) or [MultiMC](https://multimc.org/) and search for GeoPol in the modpacks. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders).
 
 ### Why Modrinth?
 *to be continued...*
 
-## Curseforge
+## Installing using Curseforge
 
 To install, open your favorite launcher and search for GeoPol. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders) In the event of a modpack update, press the two arrows next to the "Play" button and download the newest version. [More info on updating](https://support.curseforge.com/en/support/solutions/articles/9000206622-how-to-update-change-a-modpack-s-version)
 
