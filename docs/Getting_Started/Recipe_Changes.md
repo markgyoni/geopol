@@ -13,7 +13,7 @@ Even with these changes, some recipes still conflict. If you find the same craft
 
 This page contains information about recipe changes on the server.
 
-We have changed recipes to gate certain items with overly easy recipes. This is done to prevent players from getting certin items too early. Usually, changed recipes require more resources and investment into other mods. Also, some of these items were just not balanced for the progression roadmap, so we decided to change them.
+We have changed recipes to gate certain items with overly easy recipes. This is done to prevent players from getting certain items too early. Usually, changed recipes require more resources and investment into other mods. Also, some of these items were just not balanced for the progression roadmap, so we decided to change them.
 
 *These changes will not be visible if our JEI scripts are not installed on the client.*
 
@@ -21,13 +21,13 @@ We have changed recipes to gate certain items with overly easy recipes. This is 
 
 :::warning
 
-Some recipies may not be removed yet. Don't craft them.
+Some recipes may not be removed yet. Don't craft them.
 
 :::
 - 152mm Nuclear Shell's
 - 100rnd magazines (Excludes weapons that only except 100rnd mag's)
 - Diamond armor. Includes colored versions. 
-- MWC turrets
+- MWC turrets (Including the turret base)
 - Elytra's 
 
 ### Recipe Changes
