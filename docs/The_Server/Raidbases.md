@@ -5,11 +5,11 @@ sidebar_position: 3
 
 # Raidbases
 
-Raidbases are pre-made bases run by npcs from the custom npcs mod. There are 5 tiers of raidbase with 1 being the easiest and 5 being the hardest. These bases can be a great source of supplies, weapons, and money, but they do come with some risks. If players can fight their way into a raidbase, they must find one of the loot chests typically in the deepest part of the base. After opening a chest, the players will be given a timer to loot all they can and get out. After the timer runs out, the raidbase will be filled in with barriers and all players still inside will be teleported out. After a cooldown that varies for each base, the base will be re-opened and announced in chat.
+Raidbases are pre-made bases run by npcs from the custom npcs mod. There are 5 tiers of raidbase with 1 being the easiest and 5 being the hardest. These bases can be a great source of supplies, weapons, and money, but they do come with some risks. If players can fight their way into a raidbase, they can find one of the loot chests in the deepest part of the base. After opening a chest, the players will be given a timer to loot all they can and get out. After the timer runs out, the raidbase will be filled in with barriers and all players still inside will be teleported out. After a cooldown that varies for each base, the base will be re-opened and announced in chat.
 
 ## Tier 1
 
-The tier 1 raidbase is the easiest but least rewarding raidbase. Located at -750, -70, this raidbase is run by common bandits who won't put up much of a fight if dealt with strategically. Although an invisible wall prevents flanking from the back or sides, players can choose to charge in head-on or try to lure enemies out one by one. There is one loot chest in the base that has useful supplies and the occasional pistol for a starting player. After opening the chest, players will have 30 seconds to grab what they need before the base goes on its 30 minute long cooldown.
+The tier 1 raidbase is the easiest but least rewarding raidbase. Located at -750, -70, this raidbase is run by common bandits who won't put up much of a fight if dealt with strategically. Although an invisible wall prevents flanking from the back or sides, players can choose to charge in head-on or try to lure enemies out one by one. There is one loot chest in the base that has useful supplies and the occasional pistol for a starting player. After opening the chest, players will have 30 seconds to grab what they need before the base goes on its 30-minute-long cooldown.
 
 ![image](https://github.com/Milosauce/geopol/assets/105452264/922d81e0-a993-49f8-80b2-d01da6d4d741)
 
@@ -22,7 +22,7 @@ The tier 2 raidbase is located at -500, -450, and is controlled by a more organi
 
 ## Tier 3
 
-The tier 3 raidbase is located at 450, 300, and is a well-guarded military checkpoint. Players will have trouble trying to take on this base alone, so it is advised to bring a small team. The checkpoint is overlooked by a large watch tower with 2 snipers inside that will shoot anything that gets close to the entrance. Inside, there is a barracks and a door leading down into a bunker. This base gets regular shipments of military gear from the tier 5 raidbase, but it doesn't have much in the way of food or materials. Players will have 2 minutes to loot after triggering the timer and will have to wait a 2 hour cooldown.
+The tier 3 raidbase is located at 450, 300, and is a well-guarded military checkpoint. Players will have trouble trying to take on this base alone, so it is advised to bring a small team. The checkpoint is overlooked by a large watch tower with 2 snipers inside that will shoot anything that gets close to the entrance. Inside, there is a barracks and a door leading down into a bunker. This base gets regular shipments of military gear from the tier 5 raidbase, but it doesn't have much in the way of food or materials. Players will have 2 minutes to loot after triggering the timer and will have to wait a 2-hour cooldown.
 
 ![image](https://github.com/Milosauce/geopol/assets/105452264/23bc2bf9-0d1a-4065-93d5-cba70a0321e2)
 
