@@ -4,19 +4,18 @@ sidebar_position: 1
 ---
 # Joining
 
-**There is currently 2 ways to join our server.**
-
 ## General Information
 
-We provide the modpack to our players to ease the joining process. ~~Currently we have two versions:~~ 
-**(We're only focused on 1 version. The Extras modpack might come later.)**
-- **Normal** (Includes every required mod and the custom scripts. Less storage required)
+We provide the modpack to our players to ease the joining process. You can download it on [CurseForge](https://www.curseforge.com/minecraft/modpacks/geopol) (More information below)
 
-Modification for a unfair advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone)   
+
+- **Normal** (Includes every required mod and the custom scripts)
+
+Modification of the client for a advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone)   
 
 The modpack gets updated regularly. When this happens, an update will be required. More on this below.
 
-## Ram
+### Ram
 
 We recommend at least 6GB of RAM due to the amount of mods and assets. If you have more than 6GB available, feel free to allocate more RAM (8GB or even 10GB is fine) This will help with performance and will reduce lag.
 
@@ -37,4 +36,4 @@ Alternatively, you can install the modpack from the [**Curseforge Website**](htt
 
 ---
 
-After installing, launch the game and click on the "Join GeoPol" button. This will take you directly to the lobby. If for some reason you still can't join, the ip is: **geopolmc.org**
+After installing, launch the game and click on the "Join GeoPol" button. If for some reason you still can't join, the ip is: **geopolmc.org**
