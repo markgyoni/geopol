@@ -4,25 +4,26 @@ sidebar_position: 1
 ---
 
 # Modern Warfare Cubed
-[Modern Warfare Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed) (a fork of Vic's Modern Warfare) is a core feature of GeoPol. The mod adds a large amount of highly detailed, customizable guns, ranging from simple pistols to rocket launchers and machineguns.
+[Modern Warfare Cubed](https://github.com/Cubed-Development/Modern-Warfare-Cubed) (A fork of Vic's Modern Warfare) is a core feature of GeoPol. The mod adds a large amount of highly detailed, customizable guns, ranging from simple pistols to rocket launchers and machineguns.
 
 ## Guns
 VMW includes a wide variety of firearms from every major historical era, including **WW1** and **WW2**, but also from the **Cold War** and the **War on Terror**. All are near-perfect digital replicas of their real life counterparts.
 
 ### *How can I get guns?*
-If you are a new player without a faction, we recommend purchasing a gun from the gun shop, where you can find basic, low level firearms for a reasonable price, such as the G2 Contender.
+Guns can be gotten in Airdrops and from Raidbases, Scaling with each teir. 
 
 Once you have enough resources and want more advanced guns, like machine guns, you can craft them and other MWC items in the Gun Workbench. 
 
-## Attachments
-As of V3, scopes, sights, grips, lasers and suppresors must be made in the Gun Workbench. You cannot purchase attachments in a shop.
+### Attachments
+As of V3, all scopes, sights, grips, lasers and suppresors must be made in the Gun Workbench. You cannot purchase attachments in a shop.
 
-## Ammunition
-To make any caliber rounds, you use the Bullet Assembly Machine. You will need the following materials:
+### Ammunition
+To make any caliber rounds, you use the Ammo Press. You will need the following materials:
 
 - Copper
 - Tin
 - Gunpowder
+- Steel
 
 ## Explosives
 Grenades, RPG rounds, and 40mm grenades can be crafted. 
