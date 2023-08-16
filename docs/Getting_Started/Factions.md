@@ -10,7 +10,7 @@ A faction is a group of players, like a team or a club. A faction can claim terr
 
 ## Territory
 
-A faction claims land by chunk, dependent on how much power each player possesses at a rate of 1 chunk per power. Each player can have 20/20 max power, although it decreases on death, it will regen over time. See below for how power works   
+A faction claims land by chunk, dependent on how much power each player possesses at a rate of 1 chunk per power. Each player can have 10/-10 max power, although it decreases on death, it will regen over time. See below for how power works   
 
 Within its territory, members of the faction can exclusively build without interference from non-members. Your faction's territory is where you can build your base, set your faction's home location, create warp points, and more.
 
