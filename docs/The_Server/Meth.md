@@ -7,7 +7,7 @@ sidebar_position: 8
 
 Meth is a good but risky way to make some quick cash. To obtain ingredients and sell the final product, players must travel to the bandit camp at 525, 600. After obtaining the ingredients, players must set up all the machines that they will need in a place safe from prying eyes. After everything is set up, players have to carefully follow the recipe or else they could risk exploding their equipment and themselves.
 
-## Ingrediants
+## Ingredients
 
 The two ingredients needed for meth are methylamine and a special kind of aluminum oxide, both of which can only be obtained from the bandit camp. Players should be warned that consuming any ingredients will result in severe poisoning.
 
