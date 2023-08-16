@@ -5,7 +5,7 @@ sidebar_position: 3
 
 # Raidbases
 
-Raidbases are pre-made bases run by npcs from the custom npcs mod. There are 5 tiers of raidbase with 1 being the easiest and 5 being the hardest. These bases can be a great source of supplies, weapons, and money, but they do come with some risks. If players can fight their way into a raidbase, they can find one of the loot chests in the deepest part of the base. After opening a chest, the players will be given a timer to loot all they can and get out. After the timer runs out, the raidbase will be filled in with barriers and all players still inside will be teleported out. After a cooldown that varies for each base, the base will be re-opened and announced in chat.
+Raidbases are structures run by npcs from the custom npcs mod. There are 5 tiers of raidbase with 1 being the easiest and 5 being the hardest. These bases can be a great source of supplies, weapons, and money, but they do come with some risks. If players can fight their way into a raidbase, they can find one of the loot chests in the deepest part of the base. After opening a chest, the players will be given a timer to loot all they can and get out. After the timer runs out, the raidbase will be filled in with barriers and all players still inside will be teleported out. After a cooldown that varies for each base, the base will be re-opened and announced in chat.
 
 ## Tier 1
 
