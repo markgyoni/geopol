@@ -11,7 +11,7 @@ We provide the modpack to our players to ease the joining process. You can downl
 
 - **Normal** (Includes every required mod and the custom scripts)
 
-Modification of the client for an advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone, Fullbring)   
+Modification of the client for an advantage is cheating and bannable. This includes certain Texture Packs. (I.e: Xray, Invisibly Be Gone, Fullbright, etc)   
 
 The modpack gets updated regularly. When this happens, an update will be required before rejoining. More on this below.
 
