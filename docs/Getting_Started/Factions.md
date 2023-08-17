@@ -10,9 +10,9 @@ A faction is a group of players, like a team or a club. A faction can claim terr
 
 ## Territory
 
-A faction claims land by chunk, dependent on how much power each player possesses at a rate of 1 chunk per power. Each player can have 10/10 max power, although it decreases on death, it will regen over time. See below for how power works   
+A faction claims land by chunk, dependent on how much power each player possesses at a rate of 1 chunk per power. Each player can have 10/10 max power, although it decreases on death, it will regen over time. See below for how power works.   
 
-Within its territory, members of the faction can exclusively build without interference from non-members. Your faction's territory is where you can build your base, set your faction's home location, create warp points, and more.
+Within its territory, members of the faction can exclusively build without interference from non-members. Your faction's territory is where you can build your base, set your faction's home location, and more.
 
 Claiming territory is performed with the <code>/f claim</code> command.
 
@@ -24,7 +24,7 @@ Every player has a quantity of "power." A new player typically starts with 0 pow
 
 When a player is part of a faction, their faction's power is calculated as a total of its players' power. Power is how factions acquire territory or raid another faction. A faction can claim territory as long as its power is greater than its current territory claims.
 
-If, through player death or players leaving a faction, territory count is greater than power the faction can be raided by enemies who can now destroy blocks in their enemy's territory and maybe even claim territory away from the faction.
+If, through player death or a player leaving a faction, territory count is greater than power the faction can be raided by enemies who can now destroy blocks in their enemy's territory and maybe even claim territory away from the faction.
 
 Faction power now has a maximum cap of 75. This means that no matter how many players are in your faction, you can only claim a max of 75 chunks. This can be adjusted upon player feedback.
 
