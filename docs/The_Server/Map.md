@@ -4,11 +4,11 @@ sidebar_position: 1
 ---
 # World Gen
 
-The map is a BoP world with a 4000 x 4000 barrier, meaning 2k in each side out from spawn. You can find any sort of terrain, from the low sweeping plains to the high mountains, generating with all the needed ores and structures.
+The map is a BoP world with a 4000 x 4000 barrier, meaning 2k from each side out from spawn. You can find any sort of terrain, from the low sweeping plains to the high mountains, generating all the needed ores and structures.
 
 ### World Border
 
-The world border is currently set to **4000 blocks** from the spawn, so 2k in each direction. This is to stop players from exploring too far away from the spawn, and to prevent lag. The world border may be expanded in the future, but not too much, as we want to keep the map compact to have more centralized battles and factions.
+The world border is currently set to **4000 blocks** from the spawn, so 2k in each direction. This is to stop players from exploring too far away from the spawn and to prevent lag. The world border may be expanded in the future, but not too much, as we want to keep the map compact to have more centralized battles and factions.
 
 ### Dimensions
 
@@ -21,11 +21,8 @@ The Dynamic Map (Dynmap) is a plugin that allows you to see the map of our serve
 
 Our map displays the following:
 - Player list
-- No player locations
 - Top-down view and Isometric view
-- Only the Overworld
-- Faction claims
+- The Overworld
 - World border
 - Spawn's location 
-- One-way chat display from the server to the map
 - *Sadly no modded blocks*
