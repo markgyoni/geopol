@@ -16,4 +16,4 @@ At the bandit camp, you can trade with the many NPC's, some of these are:
 
 ### Meth Maker and Meth Dealer
 
-Main article: [Meth](/docs/category/the_server/meth.md)
+Main article: [Meth](/docs/The_Server/Meth.md)
