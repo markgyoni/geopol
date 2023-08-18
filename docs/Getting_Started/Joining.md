@@ -30,7 +30,7 @@ To install from Modrinth, download an open [Prism Launcher](https://prismlaunche
 
 ## Installing using Curseforge
 
-To install, open your favorite launcher and search for GeoPol. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](https://docs.geopolmc.org/docs/Mods/vicsmodernwarfare#shaders) In the event of a modpack update, press the two arrows next to the "Play" button and download the newest version. [More info on updating](https://support.curseforge.com/en/support/solutions/articles/9000206622-how-to-update-change-a-modpack-s-version)
+To install, open your favorite launcher and search for GeoPol. From here it will install the latest version. Note that you will also need to install **Optifine** separately if you want to use shaders. [More on this.](docs/The_Server/modernwarfarecubed.md#shaders) In the event of a modpack update, press the two arrows next to the "Play" button and download the newest version. [More info on updating](https://support.curseforge.com/en/support/solutions/articles/9000206622-how-to-update-change-a-modpack-s-version)
 
 Alternatively, you can install the modpack from the [**Curseforge Website**](https://www.curseforge.com/minecraft/modpacks/geopol), but you will need to manually import the zip file into your launcher.
 
