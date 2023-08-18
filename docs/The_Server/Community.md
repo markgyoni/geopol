@@ -6,7 +6,9 @@ sidebar_position: 2
 
 Our Discord server is the place where you can find the latest news and updates about the server. It is also the home of player discussion and faction promotion.  
 
-[Join Our Discord](https://discord.geopolmc.org)
+<a href="https://discord.geopolmc.org">
+    <img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-plural_vector.svg">
+  </a>
 
 ## Our team
 
