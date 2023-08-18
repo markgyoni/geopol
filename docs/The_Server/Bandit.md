@@ -25,3 +25,7 @@ The meth dealer is where you can sell your packaged meth for money, be carefull,
 ### Blacksmith
 
 The blacksmith can upgrade iron tools and armor into steel, and sells drill parts. 
+
+### Cheif 
+
+The Cheif works in the tavern and sells food for money, feel free to stop and dine at the tables.  
