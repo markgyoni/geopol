@@ -26,8 +26,12 @@ The meth dealer is where you can sell your packaged meth for money, be careful d
 
 ### Blacksmith
 
-The blacksmith can upgrade iron tools and armor into their steel counterparts and sells drill parts. 
+The blacksmith can upgrade iron tools and armor into their steel counterparts and sells drill heads. 
 
 ### Chef 
 
-The chef works in the tavern and sells food for money, feel free to stop and dine at the tables.  
+The chef works in the tavern and sells high-quality food, feel free to stop and dine at the tavern's many tables.  
+
+### Grease Monkey
+
+The grease monkey works on the bandit's many vehicles. He will buy cars and trunks to cannibalize their parts, having a soft spot for military-maintained vehicles. He pays handsomely.        
