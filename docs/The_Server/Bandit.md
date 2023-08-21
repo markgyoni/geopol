@@ -34,4 +34,4 @@ The chef works in the tavern and sells high-quality food, feel free to stop and 
 
 ### Grease Monkey
 
-The grease monkey works on the bandit's many vehicles. He will buy cars and trunks to cannibalize their parts, having a soft spot for military-maintained vehicles. He pays handsomely.        
+The grease monkey works on the bandit's many vehicles. He will buy cars and trunks to cannibalize their parts, having a soft spot for military-maintained vehicles found at high-tier raidbases. He pays handsomely.        
