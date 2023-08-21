@@ -19,6 +19,11 @@ Items are only banned as a last resort for balancing, or due to dupe/exploit iss
 
 *These changes will not be visible if our JEI scripts are not installed on the client.*
 
+## Recipe Changes
+- Modern Warfare Cubed Weapon and Armor Workbench.
+- Modern Warfare Cubed Ammo Press.
+- All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.
+
 ## List of Banned Items
 
 :::warning
@@ -35,8 +40,3 @@ Some recipes may not be removed yet. Don't craft them.
 - Mr. Crayfish's Computer (MineBay)
 - Mr. Crayfish's Packages and Envelopes 
 - NPC Tools
-
-### Recipe Changes
-- Modern Warfare Cubed Weapon and Armor Workbench.
-- Modern Warfare Cubed Ammo Press.
-- All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.
