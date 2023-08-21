@@ -13,7 +13,7 @@ This page details a feature not yet released
 The bandit camp is located at 0, 0, 0; and is defended by many guards. Here you can buy and sell items, and rest up from the hard world.     
 
 ## Guards
-The Bandit Camp is guarded by an impressive armament. These guards protect from mobs and hostile players.  
+The Bandit Camp is guarded by an impressive armament. These guards protect from mobs and hostile players, keeping the camp safe.   
 
 ## Trade
 
@@ -37,7 +37,7 @@ The chef works in the tavern and sells high-quality food, feel free to stop and 
 
 ### Grease Monkey
 
-The grease monkey works on the bandit's many vehicles. He will buy cars and trunks to cannibalize their parts, having a soft spot for military-maintained vehicles found at high-tier raidbases. He pays handsomely.  
+The grease monkey works on the bandit's many vehicles. He will buy cars and trucks to cannibalize their parts, having a soft spot for military-maintained vehicles found at high-tier raidbases. He pays handsomely.  
 
 ### Farmer
 
