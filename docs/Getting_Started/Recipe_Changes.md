@@ -24,11 +24,14 @@ We have changed recipes to gate certain items with overly easy recipes. This is 
 Some recipes may not be removed yet. Don't craft them.
 
 :::
-- 152mm Nuclear Shell's
+- 152mm Nuclear Shell
 - 100rnd magazines (Excludes weapons that only except 100rnd mag's)
 - Diamond armor. Includes colored versions. 
 - MWC turrets (Including the turret base)
-- Elytra's 
+- Elytra's
+- Pams HarvestCraft Market and Shipping Bin
+- Mr. Crayfish's Computer (MineBay)
+- NPC Tools
 
 ### Recipe Changes
 - Modern Warfare Cubed Weapon and Armor Workbench.
