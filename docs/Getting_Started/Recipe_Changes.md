@@ -7,7 +7,7 @@ sidebar_position: 4
 
 :::caution
 
-Even with these changes, some recipes still conflict. If you find the same crafting recipe for two different items, please use the **Treated Wood Crafting Table** from **Engineer's Decor**.
+Even with these changes, some recipes may still conflict. If you find the same crafting recipe for two different items, please use the **Treated Wood Crafting Table** from **Engineer's Decor**.
 
 :::
 
@@ -32,11 +32,11 @@ Some recipes may not be removed yet. Don't craft them.
 
 :::
 - 152mm Nuclear Shell
-- 100rnd magazines (Excludes weapons that only except 100rnd mag's)
+- 100rnd magazines (Excludes weapons that only except 100rnd mag)
 - Diamond armor. Includes colored versions. 
 - MWC turrets (Including the turret base)
 - Elytra's
 - Pams HarvestCraft Market and Shipping Bin
-- Mr. Crayfish's Computer (MineBay)
+- Mr. Crayfish's Computer (Or any other computer that can use MineBay)
 - Mr. Crayfish's Packages and Envelopes 
 - NPC Tools
