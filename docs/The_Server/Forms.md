@@ -3,6 +3,15 @@ title: Forms
 sidebar_position: 5
 ---
 
-### We currently don't have any forms open. Please check back later.
+## We currently don't have any applications open. Please check back later!
 
-When a form is posted here you can click it to apply for the position it offers.
+### Positions:
+
+#### Developer
+Developers program the GeoPol modpack, fix any server issues, and make the custom features     
+
+#### Moderator
+Moderators keep chat (In-game/discord) clean, and deal with dupe/exploit issues 
+
+#### Builder
+Builders are brought on to build the structures on the server during the time between versions
