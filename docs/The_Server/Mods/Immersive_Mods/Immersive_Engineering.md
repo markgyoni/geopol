@@ -37,6 +37,6 @@ You can make an Improved Blast Furnace after producing some steel with your crud
 
 There are three voltages of IF: **low (LV)**, **medium (MV)** and **high (HV)** at **256 IF/t**, **1024 IF/t**, and **4096 IF/t** respectively. Different voltages shouldn't be connected. Walking through wires deals damage, so watch your step. 
 
-There are Wire Connectors and Wire Coils. Wire Coils are what transmit IF, but they aren't actually blocks; they're entities. Wire Coils always require Wire Connectors to exist and to transmit power. Wire Connectors are actual blocks that exist in the world. There are also Wire Relays, which are used to split power between multiple Wire Coils.
+There are Wire Connectors and Wire Coils. Wire Coils are what transmit IF, but they require Wire Connectors blocks to transmit power. There are also Wire Relays, which are used to split power between multiple Wire Coils. To connect two Wire Connectors together, right-click on your starting position, then right-click the Connector you want to connect. 
 
 From this point on, you'll want an Engineer's Wire Cutters to disconnect Wire Coils. These can be used by anyone, regardless if they're part of your faction or in your claims. Protect your wires! 
