@@ -15,7 +15,7 @@ This page contains information about recipe changes on the server.
 
 We have changed recipes to gate certain items with overly easy recipes to prevent players from getting certain items too early. Usually, changed recipes require more resources or investment into other mods. Also, some of these items were just not balanced for the progression roadmap, so we decided to change them.
 
-Items are only banned as a last resort for balancing, or due to dupe/exploit issues out of our control.  
+Items are only banned as a last resort for balancing, or due to dupe/exploit issues out of our control, their ban is most likely always non-negotiable.
 
 *These changes will not be visible if our JEI scripts are not installed on the client.*
 
