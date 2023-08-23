@@ -25,6 +25,13 @@ To make any caliber rounds, you use the Ammo Press. You will need the following 
 - Gunpowder
 - Steel
 
+### Help! I can't reload!
+No need to fret! Here are some troubleshooting tips if you have issues. 
+
+- Make sure nothing else is bound to your "R" key. Some mods like to use the key for unimportant things.
+- Drop the gun and pick it up again. Sometimes animations of the gun may bug out.
+- Make sure it's not in your off-hand. This may delete your gun out of your inventory! It wont work! 
+
 ## Explosives
 Grenades, RPG rounds, and 40mm grenades can be crafted. 
 
