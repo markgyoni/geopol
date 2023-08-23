@@ -1,5 +1,6 @@
 ---
 title: Immersive Engineering
+sidebar_position: 1
 ---
 
 Immersive Engineering is one of the major tech pillars of our server. It features a wide range of machines and tools that can be used to automate and improve your base. It also adds new blocks and items, which can be used to create other materials from different mods due to our [recipe changes](https://docs.geopolmc.org/docs/Getting_Started/Recipe_Changes).
