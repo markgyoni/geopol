@@ -1,5 +1,6 @@
 ---
 title: Immersive Vehicles
+sidebar_position: 2
 ---
 # Immersive Vehicles
 Immersive Vehicles, formerly known as Minecraft Transport Simulator, is a pack-based mod that adds vehicles to Minecraft. 
