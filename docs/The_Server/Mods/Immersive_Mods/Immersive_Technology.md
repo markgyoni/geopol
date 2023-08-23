@@ -27,6 +27,6 @@ And plenty more!
 
 :::info Note
 
-Along with these multi blocks it adds some small useful additions, like trash cans for various types of fluids or items. Any information not found here on Immersive Technology or Energy can be found in the engineers manual, like the rest of the immersive series mods (excluding immersive vehicles.)
+Along with these multi blocks it adds some small useful additions, like trash cans for various types of fluids or items. Any information not found here on Immersive Technology or Energy can be found in the engineers manual, like the rest of the Immersive series. (excluding Immersive Vehicles.)
 
 :::
