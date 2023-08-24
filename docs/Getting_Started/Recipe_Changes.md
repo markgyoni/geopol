@@ -23,6 +23,7 @@ Items are only banned as a last resort for balancing, or due to dupe/exploit iss
 - Modern Warfare Cubed Weapon and Armor Workbench.
 - Modern Warfare Cubed Ammo Press.
 - All of the [Immersive Vehicles](https://docs.geopolmc.org/docs/Mods/Immersive_Mods/Immersive_Vehicles) benches.
+- All of the Modern Warfare Cubed Props are now craftable. 
 
 ## List of Banned Items
 
@@ -31,6 +32,7 @@ Items are only banned as a last resort for balancing, or due to dupe/exploit iss
 Some recipes may not be removed yet. Don't craft them.
 
 :::
+
 - 152mm Nuclear Shell
 - 100rnd magazines (Excludes weapons that only except 100rnd mag)
 - Diamond armor. Includes colored versions. 
