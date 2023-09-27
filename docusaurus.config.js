@@ -120,6 +120,10 @@ const config = {
             title: 'Other',
             items: [
               {
+                label: 'Server Status',
+                href: 'https://status.geopolmc.org',
+              },
+              {
                 label: 'CurseForge Modpack',
                 href: 'https://www.curseforge.com/minecraft/modpacks/geopol',
               },
