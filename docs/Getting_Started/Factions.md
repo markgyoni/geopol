@@ -14,7 +14,7 @@ A faction claims land by chunk, dependent on how much power each player possesse
 
 Within its territory, members of the faction can exclusively build without interference from non-members. Your faction's territory is where you can build your base, set your faction's home location, and more.
 
-Claiming territory is performed with the <code>/f claim</code> command.
+Claiming territory is performed with the  ` /f claim  ` command.
 
 Factions with more claimed chunks than power can be "overclaimed" by more powerful factions. This is usually accomplished with a siege where attackers can either ram straight through defenses or force a longer, more "traditional" siege.  
 
@@ -45,14 +45,14 @@ One example is firefights, you do not want to shoot your buddies, only the enemy
     3. From here, the recruitment post can be made in the #factions channel. 
 
 
-2. You can make a faction by typing <code>/f create [name]</code> in chat. 
-    1. Add a description to your faction by typing <code>/f desc [description]</code> in chat.
-    2. Set your faction's home by typing <code>/f sethome</code> in chat.
-    3. Claim your first chunk of territory by typing <code>/f claim</code> in chat.
-    4. Invite players to your faction by typing <code>/f invite [player]</code> in chat. 
+2. You can make a faction by typing  `/f create [name] ` in chat. 
+    1. Add a description to your faction by typing  `/f desc [description] ` in chat.
+    2. Set your faction's home by typing  `/f sethome ` in chat.
+    3. Claim your first chunk of territory by typing  `/f claim ` in chat.
+    4. Invite players to your faction by typing  `/f invite [player] ` in chat. 
 
 3. How do I declare war?    
-    1. Message your enemy faction on discord and agree on when "Hostilities" will begin. This is only semi-required as "offline" raids can net destruction of their base, if thats what you wish, however, getting their loot will be harder, as Missiles and TnT may cause items to despawn, complete and total offlining (the enemy is not online and you never declared hostiltiles (even if so) is banned.
-    2. Type the <code>/f enemy [faction name]</code> command in chat. This will let you melee enemies inside their territory, although guns will work regardless. 
+    1. Message your enemy faction on Discord and agree on when "Hostilities" will begin. This is only semi-required as "offline" raids can net destruction of their base, if that's what you wish, however, getting their loot will be harder, as Missiles and TnT may cause items to despawn, complete and total offlining (the enemy is not online and/or you never declared hostilities) is banned.
+    2. Type the  `/f enemy [faction name] ` command in chat. This will let you melee enemies inside their territory, although guns will work regardless. 
     3. Fire away!    
     
